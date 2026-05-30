@@ -1,3 +1,3 @@
-# AccelRR8 Body of Knowledge
+# Public Repository for AccelRR8 Consortium Non-Profit Management
 
 TODO
