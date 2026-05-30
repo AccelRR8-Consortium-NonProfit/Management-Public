@@ -1,10 +1,7 @@
-# Welcome to the AccelRR8 Body of Knowledge!
+# Welcome to AccelRR8 Consortium Non-Profit Management!
 
-The AccelRR8 Body of Knowledge is a digital collection of knowledge proven to help enterprising leaders grow value exponentially.  Check back frequently for new content!
+Check back often for new content.
 
-## Components
-
-- [AccelRR8 Framework](https://accelrr8.github.io/)
 
 ## Navigation
 
