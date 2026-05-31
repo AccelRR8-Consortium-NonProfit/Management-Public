@@ -1,7 +1,10 @@
 # Welcome to AccelRR8 Consortium Non-Profit Management!
 
-Check back often for new content.
+Check back often for new content
 
+## Components
+
+- [AccelRR8 Framework](https://accelrr8.github.io/)
 
 ## Navigation
 
