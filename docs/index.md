@@ -12,7 +12,7 @@ Check back often for new content
 | Governance Plan  |     | Lean Business Case  |     | Operations Plan |     | Responsibility Repository |
 | Board Repository |     | Initiatives Roadmap |     | Dashboard       |     |                           |
 
-### 2.  Value Production
+### 2.  Value Creation
 
 | 2a. Product Management                                | ___ | 2b. Demand Generation                    | ___ | 2c. Customer Acquisition             | ___ | 2d. Service Fulfillment                             |
 |:----------------------------------------------------- |:--- |:---------------------------------------- |:--- |:------------------------------------ |:--- |:--------------------------------------------------- |
@@ -21,7 +21,7 @@ Check back often for new content
 | ABOK Plan                                             |     | Demand Gen Repository                    |     |                                      |     |                                                     |
 | ABOK Respository                                      |     | Consortium Website                       |     |                                      |     |                                                     |
 
-### 3.  Support Functions
+### 3.  Support
 
 | 3a. People                 | ___ | 3b. Finance  | ___ | 3c. Technology        | ___ | 3d. Property        |
 |:-------------------------- | --- |:------------ | --- |:--------------------- | --- |:------------------- |
