@@ -24,7 +24,7 @@ Check back often for new content
 ### 3.  Support Functions
 
 | 3a. People                 | ___ | 3b. Finance  | ___ | 3c. Technology        | ___ | 3d. Property        |
-|:-------------------------- | --- | ------------ | --- | --------------------- | --- | ------------------- |
+|:-------------------------- | --- |:------------ | --- |:--------------------- | --- |:------------------- |
 | Consortium Leadership Plan |     | Finance Plan |     | Technology Plan       |     | Property Plan       |
 |                            |     |              |     | Technology Repository |     | Property Repository |
 
