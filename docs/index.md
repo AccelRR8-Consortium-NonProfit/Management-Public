@@ -4,7 +4,7 @@ Check back often for new content
 
 ## Consortium Management Components
 
-### 1. Consortium Integration
+### 1.  Integration
 
 | 1a. Governance   | 1b. Strategy        | 1c. Operations  | 1d. Responsibility        |
 | ---------------- | ------------------- | --------------- | ------------------------- |
@@ -12,7 +12,7 @@ Check back often for new content
 | Governance Plan  | Lean Business Case  | Operations Plan | Responsibility Repository |
 | Board Repository | Initiatives Roadmap | Dashboard       |                           |
 
-### 2. Consortium Value Production
+### 2.  Value Production
 
 | 2a. Product Management                                | 2b. Demand Generation                    | 2c. Customer Acquisition             | 2d. Service Fulfillment                             |
 | :---------------------------------------------------- | :--------------------------------------- | :----------------------------------- | :-------------------------------------------------- |
@@ -21,7 +21,7 @@ Check back often for new content
 | ABOK Plan                                             | Demand Gen Repository                    |                                      |                                                     |
 | ABOK Respository                                      | Consortium Website                       |                                      |                                                     |
 
-### 3. Consortium Support
+### 3.  Support Functions
 
 | 3a. People                 | 3b. Finance  | 3c. Technology        | 3d. Property        |
 | -------------------------- | ------------ | --------------------- | ------------------- |
