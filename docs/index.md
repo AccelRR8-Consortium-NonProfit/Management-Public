@@ -6,27 +6,27 @@ Check back often for new content
 
 ### 1.  Integration
 
-| 1a. Governance   | 1b. Strategy        | 1c. Operations  | 1d. Responsibility        |
-| ---------------- | ------------------- | --------------- | ------------------------- |
-| Business Plan    | Consortium Strategy | Operating Model | Responsibility Plan       |
-| Governance Plan  | Lean Business Case  | Operations Plan | Responsibility Repository |
-| Board Repository | Initiatives Roadmap | Dashboard       |                           |
+| 1a. Governance   |     | 1b. Strategy        |     | 1c. Operations  |     | 1d. Responsibility        |
+| ---------------- | --- | ------------------- | --- | --------------- | --- | ------------------------- |
+| Business Plan    |     | Consortium Strategy |     | Operating Model |     | Responsibility Plan       |
+| Governance Plan  |     | Lean Business Case  |     | Operations Plan |     | Responsibility Repository |
+| Board Repository |     | Initiatives Roadmap |     | Dashboard       |     |                           |
 
 ### 2.  Value Production
 
-| 2a. Product Management                                | 2b. Demand Generation                    | 2c. Customer Acquisition             | 2d. Service Fulfillment                             |
-| :---------------------------------------------------- | :--------------------------------------- | :----------------------------------- | :-------------------------------------------------- |
-| <small><i>`a.k.a. Research & Development`</i></small> | <small><i>`a.k.a. Marketing`</i></small> | <small><i>`a.k.a. Sales`</i></small> | <small><i>`a.k.a. Production & Support`</i></small> |
-| Product Plan                                          | Demand Gen Plan                          | Customer Acquisition Plan            | Service Fulfillment Plan                            |
-| ABOK Plan                                             | Demand Gen Repository                    |                                      |                                                     |
-| ABOK Respository                                      | Consortium Website                       |                                      |                                                     |
+| 2a. Product Management                                |     | 2b. Demand Generation                    |     | 2c. Customer Acquisition             |     | 2d. Service Fulfillment                             |
+| :---------------------------------------------------- | :-- | :--------------------------------------- | :-- | :----------------------------------- | :-- | :-------------------------------------------------- |
+| <small><i>`a.k.a. Research & Development`</i></small> |     | <small><i>`a.k.a. Marketing`</i></small> |     | <small><i>`a.k.a. Sales`</i></small> |     | <small><i>`a.k.a. Production & Support`</i></small> |
+| Product Plan                                          |     | Demand Gen Plan                          |     | Customer Acquisition Plan            |     | Service Fulfillment Plan                            |
+| ABOK Plan                                             |     | Demand Gen Repository                    |     |                                      |     |                                                     |
+| ABOK Respository                                      |     | Consortium Website                       |     |                                      |     |                                                     |
 
 ### 3.  Support Functions
 
-| 3a. People                 | 3b. Finance  | 3c. Technology        | 3d. Property        |
-| -------------------------- | ------------ | --------------------- | ------------------- |
-| Consortium Leadership Plan | Finance Plan | Technology Plan       | Property Plan       |
-|                            |              | Technology Repository | Property Repository |
+| 3a. People                 |     | 3b. Finance  |     | 3c. Technology        |     | 3d. Property        |
+| -------------------------- | --- | ------------ | --- | --------------------- | --- | ------------------- |
+| Consortium Leadership Plan |     | Finance Plan |     | Technology Plan       |     | Property Plan       |
+|                            |     |              |     | Technology Repository |     | Property Repository |
 
 
 ## Navigation
