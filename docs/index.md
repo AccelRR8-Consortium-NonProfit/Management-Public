@@ -6,11 +6,12 @@ Check back often for new content
 
 ### 1.  Integration
 
-| 1a. Governance   | ___ | 1b. Strategy        | ___ | 1c. Operations  | ___ | 1d. Responsibility        |
-|:---------------- | --- | ------------------- | --- | --------------- | --- | ------------------------- |
-| Business Plan    |     | Consortium Strategy |     | Operating Model |     | Responsibility Plan       |
-| Governance Plan  |     | Lean Business Case  |     | Operations Plan |     | Responsibility Repository |
-| Board Repository |     | Initiatives Roadmap |     | Dashboard       |     |                           |
+| ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>1a. Governance   | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>1b. Strategy        | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>1c. Operations  | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>1d. Responsibility        | .<br>\|<br>\| |
+| :-------------- | :------------------------------------ | :-------------- | ---------------------------------------- | :-------------- | ------------------------------------ | :-------------- | ---------------------------------------------- | :------------ |
+| ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Business Plan    | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Consortium Strategy | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Operating Model | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Responsibility Plan       | .<br>\|<br>\| |
+| ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Governance Plan  | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Lean Business Case  | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Operations Plan | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Responsibility Repository | .<br>\|<br>\| |
+| ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Board Repository | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Initiatives Roadmap | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Dashboard       | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>.                         | .<br>\|<br>\| |
+| ___             | _ _ _ _ _ _ _ _ _                     | ___             | _ _ _ _ _ _ _ _ _                        | ___             | _ _ _ _ _ _ _ _ _                    | ___             | _ _ _ _ _ _ _ _ _                              | .             |
 
 ### 2.  Value Creation
 
