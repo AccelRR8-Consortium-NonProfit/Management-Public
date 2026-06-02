@@ -14,12 +14,12 @@ Check back often for new content
 
 ### 2.  Value Creation
 
-| _ _ _ _ _ _ _ _ _<br>\|2a. Product<br>\|Management      | ___<br>\|<br>\| | _ _ _ _ _ _ _ <br>2b.Demand <br>Generation | ___<br>\|<br>\| | _ _ _ _ _ _ _ <br>2c. Customer Acquisition | ___<br>\|<br>\| | _ _ _ _ _ _ _<br>2d. Service Delivery               | <br>\|<br>\| |
-| :------------------------------------------------------ | :-------------- | :----------------------------------------- | :-------------- | :----------------------------------------- | :-------------- | :-------------------------------------------------- | :----------- |
-| \|<small><i>`a.k.a. Research & Development`</i></small> | \|              | <small><i>`a.k.a. Marketing`</i></small>   | \|              | <small><i>`a.k.a. Sales`</i></small>       | \|              | <small><i>`a.k.a. Production & Support`</i></small> | \|           |
-| \|Product Plan<br>\|                                    | \|<br>\|        | Demand <br>Gen Plan                        | \|<br>\|        | Customer Acquisition Plan                  | \|<br>\|        | Service Delivery Plan                               | \|<br>\|     |
-| \|ABOK Plan<br>\|                                       | \|<br>\|        | Demand Gen<br>Repository                   | \|<br>\|        |                                            | \|<br>\|        |                                                     | \|<br>\|     |
-| \|ABOK \|Respository<br>_ _ _ _ _ _ _ _ _               | \|<br>\|        | Consortium<br>Website<br>_ _ _ _ _ _ _     | \|<br>\|        | <br><br>_ _ _ _ _ _ _                      | \|<br>\|        | <br><br>_ _ _ _ _ _ _ _                             | \|<br>\|     |
+| _ _ _ _ _ _ _ _ _<br>\|2a. Product<br>\|Management      | ___<br>\|<br>\| | _ _ _ _ _ _ _ <br>2b.Demand <br>Generation | ___<br>\|<br>\| | _ _ _ _ _ _ _ <br>2c. Customer<br>Acquisition | ___<br>\|<br>\| | _ _ _ _ _ _ _<br>2d. Service<br>Delivery            | <br>\|<br>\| |
+| :------------------------------------------------------ | :-------------- | :----------------------------------------- | :-------------- | :-------------------------------------------- | :-------------- | :-------------------------------------------------- | :----------- |
+| \|<small><i>`a.k.a. Research & Development`</i></small> | \|              | <small><i>`a.k.a. Marketing`</i></small>   | \|              | <small><i>`a.k.a. Sales`</i></small>          | \|              | <small><i>`a.k.a. Production & Support`</i></small> | \|           |
+| \|Product Plan<br>\|                                    | \|<br>\|        | Demand <br>Gen Plan                        | \|<br>\|        | Customer<br>Acquisition Plan                  | \|<br>\|        | Service<br>Delivery Plan                            | \|<br>\|     |
+| \|ABOK Plan<br>\|                                       | \|<br>\|        | Demand Gen<br>Repository                   | \|<br>\|        |                                               | \|<br>\|        |                                                     | \|<br>\|     |
+| \|ABOK<br>\|Respository<br>_ _ _ _ _ _ _ _ _            | \|<br>\|        | Consortium<br>Website<br>_ _ _ _ _ _ _     | \|<br>\|        | <br><br>_ _ _ _ _ _ _                         | \|<br>\|        | <br><br>_ _ _ _ _ _ _ _                             | \|<br>\|     |
 
 ### 3.  Value Support
 
