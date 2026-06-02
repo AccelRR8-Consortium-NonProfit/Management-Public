@@ -26,10 +26,11 @@ Check back often for new content
 
 ### 3.  Value Support
 
-| 3a. People                 | ___ | 3b. Finance  | ___ | 3c. Technology        | ___ | 3d. Property        |
-| :------------------------- | --- | :----------- | --- | :-------------------- | --- | :------------------ |
-| Consortium Leadership Plan |     | Finance Plan |     | Technology Plan       |     | Property Plan       |
-|                            |     |              |     | Technology Repository |     | Property Repository |
+| ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>3a. People                 | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>3b. Finance  | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>3c. Technology        | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>3d. Property        | .<br>\|<br>\| |
+| :-------------- | :---------------------------------------------- | :-------------- | :-------------------------------- | :-------------- | :----------------------------------------- | :-------------- | :--------------------------------------- | :------------ |
+| ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Consortium Leadership Plan | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Finance Plan | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Technology Plan       | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Property Plan       | .<br>\|<br>\| |
+| ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>.<br>.                     | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>.<br>.       | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Technology Repository | ___<br>\|<br>\| | _ _ _ _ _ _ _ _ _<br>Property Repository | .<br>\|<br>\| |
+| ___             | _ _ _ _ _ _ _ _ _                               | ___             | _ _ _ _ _ _ _ _ _                 | ___             | _ _ _ _ _ _ _ _ _                          | ___             | _ _ _ _ _ _ _ _ _                        | .             |
 
 
 ## Navigation
