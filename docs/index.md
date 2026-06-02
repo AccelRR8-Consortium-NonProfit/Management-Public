@@ -1,6 +1,6 @@
 # Welcome to AccelRR8 Consortium Non-Profit Management!
 
-Check back often for new content
+One of the Success Factors in our Consortium Strategy is ***our own success will be a key proof point of our core premise.*** This means we must "drink our own champagne" as we manage and work to accelerate the success of our Consortium, and the lessons we learn along the way feed back into our own AccelRR8 Body of Knowledge! 
 
 ## Consortium Management Components
 
