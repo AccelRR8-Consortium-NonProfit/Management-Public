@@ -39,3 +39,21 @@
 ![Working With AccelRR8 LLC](./img/Strategy_Working_With_AccelRR8_LLC.jpeg)
 
 ![Consortium Culture](./img/Strategy_Consortium_Culture.jpeg)
+
+## 3-Horizon Timeline
+
+![Consortium 3-Horizon Impact Strategy](./img/Strategy_3Horizon_Timeline.jpeg)
+
+![Consortium Leadership](./img/Strategy_Consortium_Leadership.jpeg)
+
+![Consortium Services and Benefits](./img/Strategy_Services_And_Benefits.jpeg)
+
+![Building Momentum](./img/Strategy_Building_Momentum.jpeg)
+
+![Finance and Responsibility](./img/Strategy_Finance_and_Responsibility.jpeg)
+
+## 2025 Roadmap
+
+![Consortium Priorities](./img/Strategy_Consortium_Priorities.jpeg)
+
+![2025 Roadmap](./img/Strategy_2025_Roadmap.jpeg)
