@@ -7,9 +7,9 @@
 
 index
 1. Integration/
-  1. Integration
+  1. Integration Overview
   ?c 1a. Governance/
-    1a. Governance
+    1a. Governance Overview
   ?c 1b. Strategy/
-    1b. Strategy
+    1b. Strategy Overview
     Consortium Vision & Strategy
