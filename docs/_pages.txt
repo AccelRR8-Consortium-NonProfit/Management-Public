@@ -14,5 +14,7 @@ index
     1b_Strategy_Overview
     1b_Consortium_Vision_and_Strategy
 2_Value_Creation/
+  2_Value_Creation_Overview
   ?c 2a_Product_Management/
+    2a_Product_Management_Overview
     2a_Product_Management_Plan
