@@ -6,10 +6,10 @@
 ? start a folder name with "?c " to make it show up as collapsed
 
 index
-1. Integration/
-  1. Integration Overview
-  ?c 1a. Governance/
-    1a. Governance Overview
-  ?c 1b. Strategy/
-    1b. Strategy Overview
-    Consortium Vision and Strategy
+1_Integration/
+  1_Integration_Overview
+  ?c 1a_Governance/
+    1a_Governance_Overview
+  ?c 1b_Strategy/
+    1b_Strategy_Overview
+    1b_Consortium_Vision_and_Strategy
