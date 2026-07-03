@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Consortium Vision and Strategy"
             }
+          },
+          {
+            "id": "4864d4d9b78536bb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/1. Integration/1b. Strategy/img/Strategy_Consortium_Intent.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "Strategy_Consortium_Intent"
+            }
           }
         ]
       }
@@ -78,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 409.5
   },
   "right": {
     "id": "da41297f89481839",
@@ -197,8 +209,13 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
-    "docs/1. Integration/1. Integration Overview.md",
+    "docs/1. Integration/1b. Strategy/img/Strategy_Consortium_Intent.jpeg",
     "docs/1. Integration/1b. Strategy/Consortium Vision and Strategy.md",
+    "docs/1. Integration/1b. Strategy/img/Strategy_Consortium_Ambition.jpeg",
+    "docs/1. Integration/1b. Strategy/img/Strategy_LongTerm_Roadmap.jpeg",
+    "docs/1. Integration/1b. Strategy/img/Strategy_Consortium_Opportunity.jpeg",
+    "docs/1. Integration/1b. Strategy/img",
+    "docs/1. Integration/1. Integration Overview.md",
     "docs/1. Integration/1a. Governance/1a. Governance Overview.md",
     "docs/1. Integration/1b. Strategy/1b. Strategy Overview.md",
     "docs/index.md",
