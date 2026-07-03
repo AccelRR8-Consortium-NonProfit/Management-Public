@@ -1,7 +1,7 @@
 
 This is the root page of the AccelRR8 Consortium NonProfit Management ABOK component, currently hosted on Github.  
 
-We're working to merge this Github repository with our AccelRR8 Consortium website hosted on Wordpress.  
+We're working to merge the contents of this Github repository with our AccelRR8 website hosted on Wordpress.  
 
 When that merge is completed, this root page will be replaced with the contents of this web page:  https://accelrr8.org/management/.
 

@@ -1,0 +1,1 @@
+Placeholder for Consortium Vision & Strategy content
