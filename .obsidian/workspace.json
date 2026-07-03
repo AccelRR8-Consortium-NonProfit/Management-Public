@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1. Integration/1. Integration Overview.md",
+                "file": "docs/2. Value Creation/2a. Product Management/Product Management Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Integration Overview"
+              "title": "Product Management Plan"
             }
           },
           {
@@ -207,22 +207,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9eb1a04c4f9d8b60",
+  "active": "e4b48e4d236fd599",
   "lastOpenFiles": [
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.3.jpeg",
+    "docs/2. Value Creation/2a. Product Management/Product Management Plan.md",
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.1.jpeg",
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.2.jpeg",
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.4.jpeg",
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.5.jpeg",
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.6.jpeg",
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.7.jpeg",
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.8.jpeg",
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.9.jpeg",
+    "docs/2. Value Creation/2a. Product Management/img/ProductPlan_1.10.jpeg",
+    "docs/2. Value Creation/2a. Product Management/img",
+    "docs/1. Integration/1. Integration Overview.md",
+    "docs/2. Value Creation/2a. Product Management",
+    "docs/2. Value Creation",
     "docs/1. Integration/1b. Strategy/1b. Strategy Overview.md",
     "docs/1. Integration/1a. Governance/1a. Governance Overview.md",
-    "docs/1. Integration/1. Integration Overview.md",
     "docs/1. Integration/1b. Strategy/Consortium Vision and Strategy.md",
-    "docs/1. Integration/1b. Strategy/img/Strategy_Consortium_Priorities.jpeg",
-    "docs/1. Integration/1b. Strategy/img/Strategy_2025_Roadmap.jpeg",
-    "docs/1. Integration/1b. Strategy/img/Strategy_Consortium_Leadership.jpeg",
-    "docs/1. Integration/1b. Strategy/img/Strategy_3Horizon_Timeline.jpeg",
-    "docs/1. Integration/1b. Strategy/img/Strategy_Services_And_Benefits.jpeg",
-    "docs/1. Integration/1b. Strategy/img/Strategy_Building_Momentum.jpeg",
-    "docs/1. Integration/1b. Strategy/img/Strategy_Finance_and_Responsibility.jpeg",
-    "docs/1. Integration/1b. Strategy/img/Strategy_Success_Factors.jpeg",
-    "docs/1. Integration/1b. Strategy/img/Strategy_Consortium_Values.jpeg",
-    "docs/1. Integration/1b. Strategy/img/Strategy_Working_With_AccelRR8_LLC.jpeg",
     "docs/1. Integration/1b. Strategy/img",
     "docs/index.md",
     "Untitled.md",
