@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Value_Creation/2a_Product_Management/2a_Product_Management_Plan.md",
+                "file": "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2a_Product_Management_Plan"
+              "title": "1b_Strategy_Overview"
             }
           },
           {
@@ -207,10 +207,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4b48e4d236fd599",
+  "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
-    "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.3.jpeg",
+    "docs/1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy.md",
+    "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
+    "docs/1_Integration/1_Integration_Overview.md",
+    "docs/1_Integration/1a_Governance/1a_Governance_Overview.md",
     "docs/2_Value_Creation/2a_Product_Management/2a_Product_Management_Plan.md",
+    "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.3.jpeg",
     "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.1.jpeg",
     "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.2.jpeg",
     "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.4.jpeg",
@@ -221,12 +225,8 @@
     "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.9.jpeg",
     "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.10.jpeg",
     "docs/2_Value_Creation/2a_Product_Management/img",
-    "docs/1_Integration/1_Integration_Overview.md",
     "docs/2_Value_Creation/2a_Product_Management",
     "docs/2_Value_Creation",
-    "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
-    "docs/1_Integration/1a_Governance/1a_Governance_Overview.md",
-    "docs/1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy.md",
     "docs/1_Integration/1b_Strategy/img",
     "docs/index.md",
     "Untitled.md",
