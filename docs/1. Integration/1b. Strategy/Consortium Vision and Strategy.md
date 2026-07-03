@@ -30,3 +30,12 @@
 
 ![Consortium Model 2/2](./img/Strategy_Consortium_Model_2.jpeg)
 
+## Success Factors
+
+![Consortium Success Factors](./img/Strategy_Success_Factors.jpeg)
+
+![Consortium Values](./img/Strategy_Consortium_Values.jpeg)
+
+![Working With AccelRR8 LLC](./img/Strategy_Working_With_AccelRR8_LLC.jpeg)
+
+![Consortium Culture](./img/Strategy_Consortium_Culture.jpeg)
