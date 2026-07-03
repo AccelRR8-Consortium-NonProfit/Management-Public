@@ -1,11 +1,11 @@
-## Consortium Vision and Strategy
+# Consortium Vision and Strategy
 
-### Ambition and Opportunity
+## Ambition and Opportunity
 
-![[Strategy_Consortium_Intent.jpeg]]
+![Consortium Intent](./img/Strategy_Consortium_Intent.jpeg)
 
-![[Strategy_Consortium_Ambition.jpeg]]
+![Consortium Ambition](./img/Strategy_Consortium_Ambition.jpeg)
 
-![[Strategy_LongTerm_Roadmap.jpeg]]
+![Realizing Our Ambition](./img/Strategy_LongTerm_Roadmap.jpeg)
 
-![[Strategy_Consortium_Opportunity.jpeg]]
+![Consortium Opportunity](./img/Strategy_Consortium_Opportunity.jpeg)
