@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Value_Creation/2_Value_Creation_Overview.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_Value_Creation_Overview"
+              "title": "index"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
-    "docs/1_Integration/1_Integration_Overview.md",
     "docs/2_Value_Creation/2_Value_Creation_Overview.md",
+    "docs/1_Integration/1_Integration_Overview.md",
     "docs/index.md",
     "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
     "docs/1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy.md",
