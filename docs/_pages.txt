@@ -19,15 +19,15 @@ index
     1d_Responsibility_Overview
 2_Value_Creation/
   2_Value_Creation_Overview
-  ?c 2a_Product_Management/
+  ?c 2a_Product/
     2a_Product_Management_Overview
     2a_Product_Management_Plan
-  ?c 2b_Demand_Generation/
+  ?c 2b_Demand/
     2b_Demand_Generation_Overview
-  ?c 2c_Beneficiary_Engagement/
-    2c_Beneficiary_Engagement_Overview
-  ?c 2d_Product_and_Service_Delivery/
-    2c_Product_and_Service_Delivery_Overview
+  ?c 2c_Beneficiaries/
+    2c_Beneficiaries_Engagement_Overview
+  ?c 2d_Delivery/
+    2c_Delivery_Overview
 3_Capital/
   3_Capital_Overview
   ?c 3a_People/
