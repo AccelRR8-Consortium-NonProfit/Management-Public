@@ -27,7 +27,7 @@ index
   ?c 2c_Beneficiaries/
     2c_Beneficiaries_Engagement_Overview
   ?c 2d_Delivery/
-    2c_Delivery_Overview
+    2d_Delivery_Overview
 3_Capital/
   3_Capital_Overview
   ?c 3a_People/
