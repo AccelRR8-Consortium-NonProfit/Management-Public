@@ -2,9 +2,9 @@
 
 One of the Success Factors in our Consortium Strategy is *our own success will be a key proof point of our core premise*.
 
-This means we must “drink our own champagne” as we manage and work to accelerate the success of our Consortium.
+This means we must “drink our own champagne” as we manage, and work to accelerate the success of, our Consortium.
 
-It also means we must feed back the lessons we learn along the way into our own AccelRR8 Body of Knowledge! (thus this content)
+It also means we must feed back the lessons we learn along the way into our AccelRR8 Body of Knowledge! (thus this content)
 
 ## Consortium Management Components
 
