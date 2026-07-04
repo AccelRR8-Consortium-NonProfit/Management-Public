@@ -6,9 +6,9 @@ Working together, these components form a Value Chain that flows value from our 
 
 - [2a. Product Management](./2a_Product_Management/2a_Product_Management_Overview) 
   *a.k.a. Research & Development*
-- 2b. Demand Generation 
+- [2b. Demand Generation](./2b_Demand_Generation/2b_Demand_Generation_Overview.md) 
   *a.k.a. Marketing*
-- 2c. Beneficiary Engagement 
+- [2c. Beneficiary Engagement](./2c_Beneficiary_Engagement/2c_Beneficiary_Engagement_Overview.md) 
   *a.k.a. Sales*
-- 2d. Product & Service Delivery 
+- [2d. Product & Service Delivery](./2d_Product_and_Service_Delivery/2d_Product_and_Service_Delivery_Overview.md) 
   *a.k.a. Production & Support*
