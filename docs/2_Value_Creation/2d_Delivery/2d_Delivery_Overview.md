@@ -1,4 +1,4 @@
-# 2d. Delivery of Product/Service Overview
+# 2d. Delivery of Services Overview
 
 - Delivery Plan
 - Delivery Dashboard

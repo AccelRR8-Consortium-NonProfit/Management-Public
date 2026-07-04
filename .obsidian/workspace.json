@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Value_Creation/2_Value_Creation_Overview.md",
+                "file": "docs/2_Value_Creation/2d_Delivery/2d_Delivery_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_Value_Creation_Overview"
+              "title": "2d_Delivery_Overview"
             }
           },
           {
@@ -209,8 +209,8 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
-    "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Overview.md",
     "docs/2_Value_Creation/2_Value_Creation_Overview.md",
+    "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Overview.md",
     "docs/2_Value_Creation/2d_Delivery/2d_Delivery_Overview.md",
     "docs/2_Value_Creation/2c_Beneficiaries/2c_Beneficiaries_Engagement_Overview.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Overview.md",
