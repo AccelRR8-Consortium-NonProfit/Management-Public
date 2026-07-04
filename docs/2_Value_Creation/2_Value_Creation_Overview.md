@@ -4,11 +4,11 @@ Our Value Creation components listed below collectively ensure our Consortium sy
 
 Working together, these components form a Value Chain that flows value from our Consortium to our beneficiaries, from initial concepts that resonate with early adopters, to mature products and services that benefit many people.
 
-- [2a. Product Management](./2a_Product_Management/2a_Product_Management_Overview) 
+- [2a. Product Management](./2a_Product/2a_Product_Management_Overview) 
   *a.k.a. Research & Development*
-- [2b. Demand Generation](./2b_Demand_Generation/2b_Demand_Generation_Overview.md) 
+- [2b. Demand Generation](./2b_Demand/2b_Demand_Generation.md) 
   *a.k.a. Marketing*
-- [2c. Beneficiary Engagement](./2c_Beneficiary_Engagement/2c_Beneficiary_Engagement_Overview.md) 
+- [2c. Beneficiaries Engagement](./2c_Beneficiaries/2c_Beneficiaries_Engagement_Overview.md) 
   *a.k.a. Sales*
-- [2d. Product & Service Delivery](./2d_Product_and_Service_Delivery/2d_Product_and_Service_Delivery_Overview.md) 
+- [2d. Delivery of Product/Service](./2d_Delivery/2d_Delivery_Overview.md) 
   *a.k.a. Production & Support*
