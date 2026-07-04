@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/3_Capital/3_Capital_Overview.md",
+                "file": "docs/2_Value_Creation/2_Value_Creation_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3_Capital_Overview"
+              "title": "2_Value_Creation_Overview"
             }
           },
           {
@@ -209,7 +209,9 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
+    "docs/2_Value_Creation/2d_Product_and_Service_Delivery/2d_Product_and_Service_Delivery_Overview.md",
     "docs/2_Value_Creation/2_Value_Creation_Overview.md",
+    "docs/3_Capital/3_Capital_Overview.md",
     "docs/1_Integration/1_Integration_Overview.md",
     "docs/1_Integration/1a_Governance/1a_Governance_Overview.md",
     "docs/3_Capital/3d_Property/3d_Property_Overview.md",
@@ -220,10 +222,8 @@
     "docs/3_Capital/3a_People/3a_People_Overview.md",
     "docs/3_Capital/3b_Finance",
     "docs/1_Integration/1c_Operations/1c_Operations_Overview.md",
-    "docs/3_Capital/3_Capital_Overview.md",
     "docs/3_Capital/3a_People",
     "docs/3_Capital",
-    "docs/2_Value_Creation/2d_Product_and_Service_Delivery/2d_Product_and_Service_Delivery_Overview.md",
     "docs/2_Value_Creation/2d_Product_and_Service_Delivery",
     "docs/2_Value_Creation/2c_Beneficiary_Engagement/2c_Beneficiary_Engagement_Overview.md",
     "docs/2_Value_Creation/2b_Demand_Generation/2b_Demand_Generation_Overview.md",
