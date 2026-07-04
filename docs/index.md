@@ -11,7 +11,7 @@ It also means we must feed back the lessons we learn along the way into our own 
 The components of Consortium Management are:
 1. [Integration](./1_Integration/1_Integration_Overview.md)
 2. [Value Creation](./2_Value_Creation/2_Value_Creation_Overview.md)
-3. Capital
+3. [Capital](./3_Capital/3_Capital_Overview.md)
 
 Each component has a set of sub-components that will each have a plan, dashboard, and repository as our Management System matures.
 
