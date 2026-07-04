@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/3_Capital/3d_Property/3d_Property_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "3d_Property_Overview"
             }
           },
           {
@@ -207,15 +207,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9eb1a04c4f9d8b60",
+  "active": "e4b48e4d236fd599",
   "lastOpenFiles": [
-    "docs/2_Value_Creation/2_Value_Creation_Overview.md",
+    "docs/3_Capital/3c_Technology/3c_Technology_Overview.md",
+    "docs/3_Capital/3d_Property/3d_Property_Overview.md",
+    "docs/3_Capital/3d_Property",
+    "docs/3_Capital/3b_Finance/3b_Finance_Overview.md",
+    "docs/3_Capital/3c_Technology",
+    "docs/3_Capital/3a_People/3a_People_Overview.md",
+    "docs/3_Capital/3b_Finance",
+    "docs/1_Integration/1c_Operations/1c_Operations_Overview.md",
+    "docs/3_Capital/3_Capital_Overview.md",
+    "docs/3_Capital/3a_People",
     "docs/1_Integration/1_Integration_Overview.md",
-    "docs/index.md",
-    "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
-    "docs/1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy.md",
-    "docs/1_Integration/1a_Governance/1a_Governance_Overview.md",
+    "docs/2_Value_Creation/2_Value_Creation_Overview.md",
+    "docs/3_Capital",
+    "docs/2_Value_Creation/2d_Product_and_Service_Delivery/2d_Product_and_Service_Delivery_Overview.md",
+    "docs/2_Value_Creation/2d_Product_and_Service_Delivery",
+    "docs/2_Value_Creation/2c_Beneficiary_Engagement/2c_Beneficiary_Engagement_Overview.md",
+    "docs/2_Value_Creation/2b_Demand_Generation/2b_Demand_Generation_Overview.md",
     "docs/2_Value_Creation/2a_Product_Management/2a_Product_Management_Overview.md",
+    "docs/1_Integration/1d_Responsibility/1d_Responsibility_Overview.md",
+    "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
+    "docs/1_Integration/1a_Governance/1a_Governance_Overview.md",
+    "docs/2_Value_Creation/2c_Beneficiary_Engagement",
+    "docs/2_Value_Creation/2b_Demand_Generation",
+    "docs/index.md",
+    "docs/1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy.md",
     "docs/2_Value_Creation/2a_Product_Management/2a_Product_Management_Plan.md",
     "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.3.jpeg",
     "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.1.jpeg",
@@ -229,14 +247,7 @@
     "docs/2_Value_Creation/2a_Product_Management/img/ProductPlan_1.10.jpeg",
     "docs/2_Value_Creation/2a_Product_Management/img",
     "docs/2_Value_Creation/2a_Product_Management",
-    "docs/2_Value_Creation",
-    "docs/1_Integration/1b_Strategy/img",
     "Untitled.md",
-    "docs/1_Integration/1d_Responsibility",
-    "docs/1_Integration/1c_Operations",
-    "docs/1_Integration/1b_Strategy",
-    "docs/1_Integration/1a_Governance",
-    "docs/1_Integration",
     "docs/sitemap.md"
   ]
 }
