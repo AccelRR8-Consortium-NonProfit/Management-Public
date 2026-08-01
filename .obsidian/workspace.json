@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2a_Product_Management_Plan"
             }
           },
           {
@@ -209,10 +209,11 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
+    "docs/2_Value_Creation/2a_Product/2a_Product_Management_Overview.md",
+    "docs/index.md",
     "docs/3_Capital/3_Capital_Overview.md",
     "docs/1_Integration/1_Integration_Overview.md",
     "docs/2_Value_Creation/2_Value_Creation_Overview.md",
-    "docs/index.md",
     "docs/3_Capital/3d_Property/Microsoft 365/Microsoft 365 Authorization Memo - Copy.docx",
     "docs/3_Capital/3d_Property/Microsoft 365",
     "docs/3_Capital/3d_Property/AccelRR8 Brand/AccelRR8 Brand License to AccelRR8 Consortium Inc - Copy.docx",
@@ -226,7 +227,6 @@
     "docs/2_Value_Creation/2d_Delivery/2d_Delivery_Overview.md",
     "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Overview.md",
     "docs/2_Value_Creation/2c_Beneficiaries/2c_Beneficiaries_Engagement_Overview.md",
-    "docs/2_Value_Creation/2a_Product/2a_Product_Management_Overview.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
     "docs/1_Integration/1a_Governance/1a_Governance_Overview.md",
     "docs/3_Capital/3d_Property/3d_Property_Overview.md",
