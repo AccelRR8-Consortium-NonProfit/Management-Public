@@ -2,4 +2,4 @@
 
 - Finance Plan
 - Finance Dashboard
-- [Finance Repository](3b_Finance_Repository.md)
+- [Finance Repository](./3b_Finance_Repository.md)
