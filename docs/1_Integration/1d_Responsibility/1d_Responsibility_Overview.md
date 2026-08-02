@@ -3,4 +3,4 @@
 - Consortium Purpose and Credo
 - Responsibility Plan
 - Responsibility Dashboard
-- Responsibility Repository
+- [Responsibility_Repository](1d_Responsibility_Repository.md)
