@@ -17,6 +17,7 @@ index
     1c_Operations_Overview
   ?c 1d_Responsibility/
     1d_Responsibility_Overview
+    1d_Responsibility_Repository
 2_Value_Creation/
   2_Value_Creation_Overview
   ?c 2a_Product/
