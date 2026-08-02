@@ -1,6 +1,7 @@
 # Editorial Calendar
 
-We intend to publish a series of articles under a common theme:  *Accelerating Success in the Age of AI*
+We intend to publish a series of articles under a common theme:<br>  
+**Accelerating Success in the Age of AI**
 
 - **Growing Value Exponentially**<br>How enterprising leaders can *systematically* accelerate success in the age of AI
 <br><br>
