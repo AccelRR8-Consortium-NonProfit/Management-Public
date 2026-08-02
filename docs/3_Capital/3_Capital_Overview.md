@@ -6,7 +6,7 @@ These components are based on economics – making choices about allocating limi
 
 In economics, people (labor and entrepreneurship) and property (capital and land) are production factors, while money and technology are production facilitators.
 
-- [3a. People](./3a_People/3a_People_Overview.md)  <br> *Human Capital (Labor and Leadership)*<br><br>
-- [3b. Finance](./3b_Finance/3b_Finance_Overview.md)  <br> *Financial Capital and Money Matters*<br><br>
-- [3c. Technology](./3c_Technology/3c_Technology_Overview.md)  <br> *Technological Capital (Know-How)*<br><br>
-- [3d. Property](./3d_Property/3d_Property_Overview.md)  <br> *Economic Capital and Land Assets*
+- [3a. People Overview](./3a_People/3a_People_Overview.md)  <br> *Human Capital (Labor and Leadership)*<br><br>
+- [3b. Finance Overview](./3b_Finance/3b_Finance_Overview.md)  <br> *Financial Capital and Money Matters*<br><br>
+- [3c. Technology Overview](./3c_Technology/3c_Technology_Overview.md)  <br> *Technological Capital (Know-How)*<br><br>
+- [3d. Property Overview](./3d_Property/3d_Property_Overview.md)  <br> *Economic Capital and Land Assets*
