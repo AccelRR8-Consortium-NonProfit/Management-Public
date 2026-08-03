@@ -15,6 +15,7 @@ index
     1b_Consortium_Vision_and_Strategy
   ?c 1c_Operations/
     1c_Operations_Overview
+    1c_Operating_Model
   ?c 1d_Responsibility/
     1d_Responsibility_Overview
     1d_Responsibility_Repository
