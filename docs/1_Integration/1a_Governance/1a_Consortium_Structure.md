@@ -1,18 +1,18 @@
 
 # Structure
 
-The AccelRR8 Consortium Network interacts with people and organizations who are 
+The **AccelRR8 Consortium Network** interacts with people and organizations who are 
 
-- participants with stronger bonds to our network:
-	- State of Maryland where the Consortium is incorporated
-	- Consortium Board of Directors who oversees Consortium Management
-	- Consortium Management who operate the Consortium Management System
-	- Consortium Leaders who provide Consortium Services and grow Consortium value
-	- Consortium Subscribers who engage with Consortium Services
-	- Consortium Patrons who donate to the Consortium
+- **participants** with stronger bonds to our network:
+	- **State of Maryland** where the Consortium is incorporated
+	- Consortium **Board of Directors** who oversees Consortium Management
+	- Consortium **Management** who operate the Consortium Management System
+	- Consortium **Leaders** who provide Consortium services and grow Consortium value
+	- Consortium **Subscribers** who engage with Consortium services
+	- Consortium **Patrons** who donate to the Consortium<br><br>
 
-- other stakeholders with weaker bonds to our network:
-	- Influencers who raise awareness of the Consortium with potential participants
+- **other stakeholders** with weaker bonds to our network:
+	- **Influencers** who raise awareness of the Consortium with potential participants
 
 
 # Cumulative Logic
