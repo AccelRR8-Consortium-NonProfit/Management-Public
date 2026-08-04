@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1_Integration/1d_Responsibility/1d_Responsibility_Overview.md",
+                "file": "docs/1_Integration/1a_Governance/1a_Consortium_Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1d_Responsibility_Overview"
+              "title": "1a_Consortium_Structure"
             }
           }
         ]
@@ -197,8 +197,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4b48e4d236fd599",
+  "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
+    "docs/1_Integration/1d_Responsibility/1d_Responsibility_Overview.md",
     "docs/1_Integration/1d_Responsibility/1d_Consortium_Purpose_and_Credo.md",
     "docs/1_Integration/1d_Responsibility/img/Consortium_Ambition.jpeg",
     "docs/1_Integration/1d_Responsibility/img/Consortium_Culture.jpeg",
@@ -233,7 +234,6 @@
     "docs/3_Capital/3b_Finance/3b_Finance_Repository.md",
     "docs/3_Capital/3b_Finance/3b_Finance_Overview.md",
     "docs/1_Integration/1d_Responsibility/1d_Responsibility_Repository.md",
-    "docs/1_Integration/1d_Responsibility/1d_Responsibility_Overview.md",
     "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Overview.md",
