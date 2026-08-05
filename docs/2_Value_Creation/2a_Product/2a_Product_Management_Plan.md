@@ -1,6 +1,6 @@
 # Product Management Plan
 
-Our plan builds on the []"Grow Value Exponentially"](https://accelrr8.github.io/AccelRR8-Framework/?page=Grow_Value_Exponentially&location=) story in the AccelRR8 Framework.
+Our plan builds on the ["Grow Value Exponentially"](https://accelrr8.github.io/AccelRR8-Framework/?page=Grow_Value_Exponentially&location=) story in the AccelRR8 Framework.
 ## Our Product Plan
 
 ![Consortium Product Plan](./img/ProductPlan_2.1.jpeg)
