@@ -3,7 +3,7 @@
 
 The **AccelRR8 Consortium Network** interacts with people and organizations who are 
 
-- **participants** with stronger bonds to our Consortium network:
+- **participants** with stronger bonds to our Consortium network (direct beneficiaries):
 	- **State of Maryland** where the Consortium is incorporated
 	- Consortium **Board of Directors** who oversees Consortium Management
 	- Consortium **Management** who operate the [Consortium Management System](../../index.md)
@@ -13,6 +13,7 @@ The **AccelRR8 Consortium Network** interacts with people and organizations who 
 
 - **other stakeholders** with weaker bonds to our Consortium network:
 	- **Influencers** who raise awareness of the Consortium with potential participants
+	- **All humanity** - the intended beneficiaries of the Consortium (indirect beneficiaries)  
 
 
 # Cumulative Logic
