@@ -42,5 +42,6 @@ index
     3b_Finance_Repository
   ?c 3c_Technology/
     3c_Technology_Overview
+    3c_Technology_Plan
   ?c 3d_Property/
     3d_Property_Overview
