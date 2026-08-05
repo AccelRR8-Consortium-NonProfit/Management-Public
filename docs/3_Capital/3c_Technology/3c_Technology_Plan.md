@@ -41,7 +41,7 @@ With Dominick Reba’s help, we launched a new AccelRR8 Consortium Github organi
 
 ## Discord
 
-With Christopher Reba’s help, we launched a new [AccelRR8 Consortium NonProfit Discord server]([https://discord.gg/tBVEy2vJ](https://discord.com/channels/1403454964067602452/1403458957871157278)) with:
+With Christopher Reba’s help, we launched a new [AccelRR8 Consortium NonProfit Discord server](https://discord.com/channels/1403454964067602452/1403458957871157278) with:
 - private channels for Board discussions, and
 - public channels for topic-aligned community discussions
 
