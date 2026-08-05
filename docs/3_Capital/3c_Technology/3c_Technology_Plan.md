@@ -1,14 +1,14 @@
 
 # Using the AccelRR8 Framework
 
-One of our [Consortium Values](../../1_Integration/1d_Responsibility/1d_Consortium_Purpose_and_Credo.md#Credo) is "Accelerating Success", which is about "harnessing proven accelerators to continuously innovate, collaborate, ideate, learn, use AI, and grow value exponentially (we drink our own champagne)".  
+One of our [Consortium Values](../../1_Integration/1d_Responsibility/1d_Consortium_Purpose_and_Credo.md) is "Accelerating Success", which is about "harnessing proven accelerators to continuously innovate, collaborate, ideate, learn, use AI, and grow value exponentially (we drink our own champagne)".  
 
 We "harness proven accelerators" by using the AccelRR8 Framework (one of the [AccelRR8 Body of Knowledge components](https://accelrr8.org/abok-components/)) throughout our [AccelRR8 Management System](../../index.md).  We will elaborate on how we do this in a future case study that will be included in the [AccelRR8 Body of Knowledge (ABOK)](https://accelrr8.org/a-bok/).
 
 
 # Using Collaboration Platforms to Maximize Network Effects
 
-One of the proven accelerators we seek to maximize in our Consortium is Network Effects.  We do this by helping our [Consortium Network Participants](../../1_Integration/1a_Governance/1a_Consortium_Structure.md#Network-Structure) connect with one another.   
+One of the proven accelerators we seek to maximize in our Consortium is Network Effects.  We do this by helping our [Consortium Network Participants](../../1_Integration/1a_Governance/1a_Consortium_Structure.md) connect with one another.   
 
 As we scale our Consortium Network we face challenges connecting people across organizational and technology silos.
 
@@ -41,7 +41,7 @@ With Dominick Reba’s help, we launched a new AccelRR8 Consortium Github organi
 
 ## Discord
 
-With Christopher Reba’s help, we launched a new [AccelRR8 Consortium NonProfit Discord server](https://discord.gg/tBVEy2vJ) with:
+With Christopher Reba’s help, we launched a new [AccelRR8 Consortium NonProfit Discord server]([https://discord.gg/tBVEy2vJ](https://discord.com/channels/1403454964067602452/1403458957871157278)) with:
 - private channels for Board discussions, and
 - public channels for topic-aligned community discussions
 
