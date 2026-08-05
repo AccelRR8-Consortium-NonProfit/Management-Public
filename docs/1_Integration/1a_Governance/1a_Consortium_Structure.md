@@ -6,7 +6,7 @@ The **AccelRR8 Consortium Network** interacts with people and organizations who 
 - **participants** with stronger bonds to our Consortium network:
 	- **State of Maryland** where the Consortium is incorporated
 	- Consortium **Board of Directors** who oversees Consortium Management
-	- Consortium **Management** who operate the Consortium Management System
+	- Consortium **Management** who operate the [Consortium Management System](../../index.md)
 	- Consortium **Leaders** who provide Consortium services and grow Consortium value
 	- Consortium **Subscribers** who engage with Consortium services
 	- Consortium **Patrons** who donate to the Consortium<br><br>
