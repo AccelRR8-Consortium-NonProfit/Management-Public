@@ -30,7 +30,7 @@ It's ambitious but we can do this!
 
 We must learn from other successful non-profit organizations who offer similar services.
 
-![](img/Consortium_Peers.jpeg)
+![](./img/Consortium_Peers.jpeg)
 ## 3-Horizon Roadmap for the 2020s 
 
 ![](./img/3Horizon_Impact_Strategy.jpeg)
