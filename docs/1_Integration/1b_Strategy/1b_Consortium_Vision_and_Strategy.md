@@ -1,59 +1,40 @@
 # Consortium Vision and Strategy
 
-## Ambition and Opportunity
+## Consortium Intent and Ambition
 
-![Consortium Intent](./img/Strategy_Consortium_Intent.jpeg)
+Our founders formulated our Consortium Intent which undergirds our Ambition and everything we do.
 
-![Consortium Ambition](./img/Strategy_Consortium_Ambition.jpeg)
+![Consortium Intent](./img/Consortium_Intent.jpeg)
 
-![Realizing Our Ambition](./img/Strategy_LongTerm_Roadmap.jpeg)
+![Consortium Ambition](./img/Consortium_Ambition.jpeg)
 
-![Consortium Opportunity](./img/Strategy_Consortium_Opportunity.jpeg)
+Fully realizing our ambition will require perseverance and tenacity over decades.
 
-## Our Center of Gravity
+![Realizing Our Ambition](./img/Realizing_Our_Ambition.jpeg)
+
+## Consortium Opportunity
+
+We believe the opportunity is real, achievable, and worth it!
+
+![Consortium Opportunity](./img/Consortium_Opportunity.jpeg)
+
+We must stay focused on our core premise / center of gravity or we'll end up trying to "boil the ocean".
 
 ![Growing Value Exponentially](./img/Growing_Value_Exponentially.jpeg)
 
-![Rocket to your aspirations using the AccelRR8 Framework](./img/AccelRR8_Framework_Rocket.jpeg)
-
-![Using the AccelRR8 Framework](./img/AccelRR8_Framework_Table.jpeg)
-
-## Scope of Our Services
-
-![Consortium Orientation](./img/Strategy_Consortium_Orientation.jpeg)
-
-![Consortium Peers](./img/Strategy_Consortium_Peers.jpeg)
-
-![Consortium Services](./img/Strategy_Consortium_Services.jpeg)
-
-![Consortium Model 1/2](./img/Strategy_Consortium_Model_1.jpeg)
-
-![Consortium Model 2/2](./img/Strategy_Consortium_Model_2.jpeg)
-
 ## Success Factors
 
-![Consortium Success Factors](./img/Strategy_Success_Factors.jpeg)
+It's ambitious but we can do this!
 
-![Consortium Values](./img/Strategy_Consortium_Values.jpeg)
+![Consortium Success Factors](./img/Consortium_Success_Factors.jpeg)
 
-![Working With AccelRR8 LLC](./img/Strategy_Working_With_AccelRR8_LLC.jpeg)
+We must learn from other successful non-profit organizations who offer similar services.
 
-![Consortium Culture](./img/Strategy_Consortium_Culture.jpeg)
+![](img/Consortium_Peers.jpeg)
+## 3-Horizon Roadmap for the 2020s 
 
-## 3-Horizon Timeline
+![Consortium 3-Horizon Impact Strategy](./img/3Horizon_Impact_Strategy.jpeg)
 
-![Consortium 3-Horizon Impact Strategy](./img/Strategy_3Horizon_Timeline.jpeg)
+![Consortium Priorities](./img/Consortium_Priorities.jpeg)
 
-![Consortium Leadership](./img/Strategy_Consortium_Leadership.jpeg)
-
-![Consortium Services and Benefits](./img/Strategy_Services_And_Benefits.jpeg)
-
-![Building Momentum](./img/Strategy_Building_Momentum.jpeg)
-
-![Finance and Responsibility](./img/Strategy_Finance_and_Responsibility.jpeg)
-
-## 2025 Roadmap
-
-![Consortium Priorities](./img/Strategy_Consortium_Priorities.jpeg)
-
-![2025 Roadmap](./img/Strategy_2025_Roadmap.jpeg)
+![2025 Roadmap](./img/Horizon1_Roadmap.jpeg)
