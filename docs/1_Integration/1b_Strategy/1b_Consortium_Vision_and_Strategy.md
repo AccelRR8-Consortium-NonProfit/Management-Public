@@ -35,4 +35,4 @@ We must learn from other successful non-profit organizations who offer similar s
 
 ![](./img/3Horizon_Impact_Strategy.jpeg)
 
-![](./img/Consortium_Priorities.jpeg)
+
