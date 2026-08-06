@@ -12,13 +12,13 @@ Specific actions we will take, and leading indicators we will measure, are shown
 
 These actions are organized into 3 services:  Professional Networking, Open Knowledge Sharing, and Industry Innovation
 
-![Consortium Product Plan](./img/ProductPlan_2.1.jpeg)
+![](./img/Consortium_Product_Plan.jpeg)
 
 # Product Priorities
 
 The below graphic shows our most important near term product priorities.
 
-![Consortium Product Priorities](./img/ProductPlan_2.2.jpeg)
+![](./img/Consortium_Product_Priorities.jpeg)
 
 ## Use Lean Product Management
 
@@ -28,11 +28,11 @@ From the beginning, we have been using Lean Portfolio Management (LPM) to develo
 
 The below graphic is a view of the SAFe v6 Portfolio Kanban for our Services Portfolio.  SAFe is an acronym that stands for Scaled Agile Framework.
 
-![Consortium Product Portfolio Kanban](./img/ProductPlan_2.3.jpeg)
+![](./img/Product_Portfolio_Kanban.jpeg)
 
 We are using Lean Product Management to define the scope of our services.
 
-![Consortium Services](./img/ProductPlan_2.4.jpeg)
+![](./img/Consortium_Services.jpeg)
 
 # Product Roadmap
 
@@ -46,9 +46,9 @@ To scale quickly, we must learn from leaders experienced in similar non-profits,
 
 To help us scale and be credible, we must experiment with and practice using AI for all of these activities.
 
-![Roadmap to Launch v1 Services](./img/ProductPlan_2.5.jpeg)
+![](./img/Roadmap_To_Launch.jpeg)
 
 The below graphic shows potential features and pricing models for our Services when we enter the Climb Stage and our services begin to achieve scale.
 
-![Maturing our Services v2+](./img/ProductPlan_3.1.jpeg)
+![](./img/Maturing_Our_Services.jpeg)
 
