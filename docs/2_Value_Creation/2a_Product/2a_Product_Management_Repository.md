@@ -1,7 +1,7 @@
 
 # Lean Business Cases for Consortium Services
 
-- [Professional Networking v1](./Professional%20Networking/Professional%20Networking%20v1%20Lean%20Business%20Case.pdf)
+- [Professional Networking v1](./Professional_Networking/Professional_Networking_v1_Lean_Business_Case.pdf)
 - Open Knowledge Sharing v1
 - Industry Innovation v1
 
