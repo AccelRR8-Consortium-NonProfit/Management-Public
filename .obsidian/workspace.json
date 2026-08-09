@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Value_Creation/2a_Product/2a_Product_Management_Repository.md",
+                "file": "docs/1_Integration/1a_Governance/1a_Consortium_Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2a_Product_Management_Repository"
+              "title": "1a_Consortium_Structure"
             }
           }
         ]
@@ -199,10 +199,10 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
+    "docs/2_Value_Creation/2a_Product/2a_Product_Management_Repository.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Dashboard.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Overview.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
-    "docs/2_Value_Creation/2a_Product/2a_Product_Management_Repository.md",
     "docs/2_Value_Creation/2a_Product/Professional_Networking/Professional_Networking_v1_Lean_Business_Case.pdf",
     "docs/2_Value_Creation/2a_Product/Professional_Networking/Professional_Networking_v1_Lean_Business_Case.pptx",
     "docs/2_Value_Creation/2a_Product/Open_Knowledge_Sharing/Open_Knowledge_Sharing_v1_Lean_Business_Case.pptx",
