@@ -36,17 +36,9 @@ We are using Lean Product Management to define the scope of our services.
 
 # Product Roadmap
 
-The below graphic shows specific actions we are taking for our Services during the Launch Stage.  Actions aligned to our Product Priorities are highlighted in yellow.
+The below graphic shows specific actions we are taking for our Services during the Launch Stage, aligned with the Product Priorities above. 
 
-We have made progress on our top two Product priorities:  using LPM, and identifying the right Collaboration Platforms to connect our network and be credible.
-
-To win advocacy from credible industry influencers and go viral, we must hone our messages and launch a campaign.
-
-To scale quickly, we must learn from leaders experienced in similar non-profits, especially ASUG and the Bender Leadership Academy.
-
-To help us scale and be credible, we must experiment with and practice using AI for all of these activities.
-
-![](./img/Roadmap_To_Launch.jpeg)
+![](./img/Roadmap_To_Launch_Baseline.jpg)
 
 The below graphic shows potential features and pricing models for our Services when we enter the Climb Stage and our services begin to achieve scale.
 

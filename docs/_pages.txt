@@ -26,6 +26,8 @@ index
   ?c 2a_Product/
     2a_Product_Management_Overview
     2a_Product_Management_Plan
+    2a_Product_Management_Dashboard
+    2a_Product_Management_Repository
   ?c 2b_Demand/
     2b_Demand_Generation_Overview
     2b_Demand_Generation_Plan
