@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Value_Creation/2a_Product/2a_Product_Management_Overview.md",
+                "file": "docs/2_Value_Creation/2d_Delivery/2d_Delivery_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2a_Product_Management_Overview"
+              "title": "2d_Delivery_Overview"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
-    "docs/2_Value_Creation/2a_Product/2a_Product_Management_Repository.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Overview.md",
+    "docs/2_Value_Creation/2a_Product/Professional Networking/~${90345D31-6C88-5744-A723-5C09AA69381C}.tmp",
+    "docs/2_Value_Creation/2a_Product/2a_Product_Management_Repository.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Dashboard.md",
     "docs/2_Value_Creation/2a_Product/img/Roadmap_To_Launch.jpeg",
@@ -221,7 +222,6 @@
     "docs/2_Value_Creation/2a_Product/Industry Innovation copy",
     "docs/2_Value_Creation/2a_Product/Open Knowledge Sharing copy/Open Knowledge Sharing Plan.pptx",
     "docs/2_Value_Creation/2a_Product/Open Knowledge Sharing copy/Open Knowledge Sharing v1 Lean Business Case.pptx",
-    "docs/2_Value_Creation/2a_Product/Open Knowledge Sharing copy",
     "docs/2_Value_Creation/2a_Product/img/Consortium_Services.jpeg",
     "docs/2_Value_Creation/2a_Product/img/Consortium_Product_Priorities.jpeg",
     "docs/1_Integration/1d_Responsibility/1d_Consortium_Purpose_and_Credo.md",
@@ -243,7 +243,6 @@
     "docs/3_Capital/3b_Finance/3b_Finance_Repository.md",
     "docs/3_Capital/3b_Finance/3b_Finance_Overview.md",
     "docs/2_Value_Creation/2d_Delivery/2d_Delivery_Overview.md",
-    "docs/2_Value_Creation/2c_Beneficiaries/2c_Beneficiaries_Engagement_Overview.md",
-    "docs/3_Capital/3d_Property/3d_Property_Overview.md"
+    "docs/2_Value_Creation/2c_Beneficiaries/2c_Beneficiaries_Engagement_Overview.md"
   ]
 }
