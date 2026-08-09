@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Value_Creation/2d_Delivery/2d_Delivery_Overview.md",
+                "file": "docs/2_Value_Creation/2a_Product/2a_Product_Management_Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2d_Delivery_Overview"
+              "title": "2a_Product_Management_Dashboard"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
+    "docs/2_Value_Creation/2d_Delivery/2d_Delivery_Overview.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Overview.md",
     "docs/2_Value_Creation/2a_Product/Professional Networking/~${90345D31-6C88-5744-A723-5C09AA69381C}.tmp",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Repository.md",
@@ -242,7 +243,6 @@
     "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Plan.md",
     "docs/3_Capital/3b_Finance/3b_Finance_Repository.md",
     "docs/3_Capital/3b_Finance/3b_Finance_Overview.md",
-    "docs/2_Value_Creation/2d_Delivery/2d_Delivery_Overview.md",
     "docs/2_Value_Creation/2c_Beneficiaries/2c_Beneficiaries_Engagement_Overview.md"
   ]
 }
