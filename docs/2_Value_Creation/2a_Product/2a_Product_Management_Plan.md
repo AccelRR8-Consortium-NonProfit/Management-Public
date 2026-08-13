@@ -26,7 +26,9 @@ Our Consortium’s first Product Priority is “To improve our services and be c
 
 From the beginning, we have been using Lean Portfolio Management (LPM) to develop Consortium Services and ignite compounding innovation.
 
-The below graphic is a view of the SAFe v6 Portfolio Kanban for our Services Portfolio.  SAFe is an acronym that stands for Scaled Agile Framework.
+This process began by developing the Epic Hypothesis Statement and the Lean Business Case for the Services Portfolio overall.
+
+The Services Portfolio Epic was then decomposed into separate Epics for each Service Version in our Services Portfolio.  The below graphic is a view of the SAFe v6 Portfolio Kanban for our Services Portfolio.  SAFe is an acronym that stands for Scaled Agile Framework.
 
 ![](./img/Product_Portfolio_Kanban.jpeg)
 

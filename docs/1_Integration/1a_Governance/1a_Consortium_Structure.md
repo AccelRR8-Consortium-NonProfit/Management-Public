@@ -4,7 +4,7 @@
 The **AccelRR8 Consortium Network** interacts with people and organizations who are 
 
 - **participants** with stronger bonds to our Consortium network (direct beneficiaries):
-	- **State of Maryland** where the Consortium is incorporated
+	- **US State of Maryland** where the Consortium is incorporated as a 501(c)3 Non-Profit Organization on behalf of the **public** good
 	- Consortium **Board of Directors** who oversees Consortium Management
 	- Consortium **Management** who operate the [Consortium Management System](../../index.md)
 	- Consortium **[Leaders](https://accelrr8.org/leaders/)** who provide Consortium services and grow Consortium value
