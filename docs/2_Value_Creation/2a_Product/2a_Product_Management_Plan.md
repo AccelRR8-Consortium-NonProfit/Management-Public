@@ -26,7 +26,7 @@ Our Consortium’s first Product Priority is “To improve our services and be c
 
 From the beginning, we have been using Lean Portfolio Management (LPM) to develop Consortium Services and ignite compounding innovation.
 
-This process began by developing the Epic Hypothesis Statement and the Lean Business Case for the Services Portfolio overall.
+This process began by developing the [Epic Hypothesis Statement](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Epic-Hypothesis-Statement.pdf) and the [Lean Business Case](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Lean_Business_Case.pdf) for the Services Portfolio overall.
 
 The Services Portfolio Epic was then decomposed into separate Epics for each Service Version in our Services Portfolio.  The below graphic is a view of the SAFe v6 Portfolio Kanban for our Services Portfolio.  SAFe is an acronym that stands for Scaled Agile Framework.
 
