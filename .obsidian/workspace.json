@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
+                "file": "docs/2_Value_Creation/2a_Product/2a_Product_Management_Repository.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2a_Product_Management_Plan"
+              "title": "2a_Product_Management_Repository"
             }
           }
         ]
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +198,7 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
+    "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
     "docs/1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy.md",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities.jpg",
@@ -212,7 +212,6 @@
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities/Slide7.jpeg",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities.pdf",
-    "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
     "docs/1_Integration/1a_Governance/1a_Consortium_Structure.md",
     "docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Lean_Business_Case.pdf",
     "docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Epic-Hypothesis-Statement.pdf",
