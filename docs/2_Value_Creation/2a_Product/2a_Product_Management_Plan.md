@@ -36,5 +36,5 @@ The below graphic shows specific actions we are taking for our Services during t
 
 The below graphic shows potential features and pricing models for our Services when we enter the Climb / Scale Stage of our Product Plan.
 
-![](./img/Maturing_Our_Services.jpeg)
+![](./img/Maturing_Our_Services.jpg)
 
