@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy.md",
+                "file": "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1b_Consortium_Vision_and_Strategy"
+              "title": "2a_Product_Management_Plan"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
+    "docs/1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy.md",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities.jpg",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities/Slide14.jpeg",
@@ -209,7 +210,6 @@
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities/Slide9.jpeg",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities/Slide8.jpeg",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities/Slide7.jpeg",
-    "docs/1_Integration/1b_Strategy/img/Consortium_Priorities/Slide6.jpeg",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities",
     "docs/1_Integration/1b_Strategy/img/Consortium_Priorities.pdf",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Plan.md",
@@ -226,7 +226,6 @@
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Dashboard.md",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Overview.md",
     "docs/2_Value_Creation/2d_Delivery/2d_Delivery_Overview.md",
-    "docs/1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy.md",
     "docs/1_Integration/1d_Responsibility/1d_Consortium_Purpose_and_Credo.md",
     "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
     "docs/1_Integration/1c_Operations/1c_Operating_Model.md",
