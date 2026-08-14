@@ -6,7 +6,7 @@ Our plan builds on the ["Grow Value Exponentially"](https://accelrr8.github.io/A
 
 In the below graphic we show how we will use the AccelRR8 Framework to launch and grow the AccelRR8 Consortium’s value exponentially as it climbs toward achieving exponential benefits at scale.
 
-![](img/Consortium_Product_Plan.jpeg)
+![](./img/Consortium_Product_Plan.jpeg)
 
 This is how we will achieve one of our key Success Factors:  “Our own success will be a key proof point of our core premise”
 
