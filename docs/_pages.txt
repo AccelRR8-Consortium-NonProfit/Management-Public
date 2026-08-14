@@ -34,6 +34,9 @@ index
     ?c Open_Knowledge_Sharing/
       v1/
         Open_Knowledge_Sharing_v1_Deliverables
+    ?c Industry_Innovation/
+      v1/
+        Industry_Innovation_v1_Deliverables
   ?c 2b_Demand/
     2b_Demand_Generation_Overview
     2b_Demand_Generation_Plan
