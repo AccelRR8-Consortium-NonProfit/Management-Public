@@ -37,5 +37,4 @@ In the 2020s, we need to orient ourselves and learn about the services we need, 
 
 ![](./img/3Horizon_Impact_Strategy.jpeg)
 
-
-![](./img/Consortium_Product_Priorities.jpeg)
+![](./img/Consortium_Priorities.jpeg)
