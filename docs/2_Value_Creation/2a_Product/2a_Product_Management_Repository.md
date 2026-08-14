@@ -12,7 +12,7 @@
 
 - [Epic Hypothesis Statement](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/Professional_Networking/Professional_Networking_v1_Epic-Hypothesis-Statement.pdf)
 
-### Preliminary Cost Estimates and Priority
+#### Preliminary Cost Estimates and Priority
 
 ![](./Professional_Networking/img/Reviewing_Cost_Estimate_and_WSJF.jpeg)
 
