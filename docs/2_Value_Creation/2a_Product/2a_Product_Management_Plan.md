@@ -2,7 +2,7 @@
 
 ## Using Lean Product Management
 
-One of our [Consortium’s strategic priorities](https://accelrr8-consortium-nonprofit.github.io/Management-Public/?page=1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy#executing-our-3-horizon-strategy) is “to improve our services and be credible, we should use Lean Product Management”.
+One of our [Consortium’s strategic priorities](../../1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy) is “to improve our services and be credible, we should use Lean Product Management”.
 
 From the beginning, we have been using Lean Product Management (LPM) to develop Consortium Services and ignite compounding innovation.
 
