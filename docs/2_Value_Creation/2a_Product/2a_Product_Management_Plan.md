@@ -22,7 +22,7 @@ From the beginning, we have been using Lean Portfolio Management (LPM) to develo
 
 First we developed the [Epic Hypothesis Statement](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Epic-Hypothesis-Statement.pdf) and the [Lean Business Case](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Lean_Business_Case.pdf) for the Services Portfolio overall.
 
-We then decomposed the Services Portfolio into separate Epics for each service.  The scope of our services as shown in the graphic below was defined in the Epic Hypothesis Statement and Lean Business Case for each Service.
+We then decomposed the Services Portfolio into separate Epics for version 1 of each service.  The scope of our services as shown in the graphic below was defined in the Epic Hypothesis Statement and Lean Business Case for v1 of each Service, which you can view in the [Product Management Repository](./2a_Product_Management_Repository) under the Deliverables header.
 
 ![](./img/Consortium_Services.jpeg)
 
