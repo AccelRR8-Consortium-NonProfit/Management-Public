@@ -1,8 +1,8 @@
 # Consortium Vision and Strategy
 
-## Consortium Intent and Ambition
+## Realizing Our Long Term Ambition
 
-Our founders formulated our Consortium Intent which undergirds our Ambition and everything we do.
+Our founders formulated our Consortium Intent, which underpins our Ambition and everything we do.
 
 ![](./img/Consortium_Intent.jpeg)
 
@@ -12,7 +12,7 @@ Fully realizing our ambition will require perseverance and tenacity over decades
 
 ![](./img/Realizing_Our_Ambition.jpeg)
 
-## Consortium Opportunity
+## Staying Focused On Our Opportunity
 
 We believe the opportunity is real, achievable, and worth it!
 
@@ -22,17 +22,20 @@ We must stay focused on our core premise / center of gravity or we'll end up try
 
 ![](./img/Growing_Value_Exponentially.jpeg)
 
-## Success Factors
+## Doing What It Takes To Succeed
 
-It's ambitious but we can do this!
+It's ambitious but we can do this if we keep our eye on the ball!
 
 ![](./img/Consortium_Success_Factors.jpeg)
 
 We must learn from other successful non-profit organizations who offer similar services.
 
 ![](./img/Consortium_Peers.jpeg)
-## 3-Horizon Roadmap for the 2020s 
+## Executing Our 3-Horizon Strategy
+
+In the 2020s, we need to orient ourselves and learn about the services we need, while "drinking our own champagne".
 
 ![](./img/3Horizon_Impact_Strategy.jpeg)
 
 
+![](./img/Consortium_Product_Priorities.jpeg)
