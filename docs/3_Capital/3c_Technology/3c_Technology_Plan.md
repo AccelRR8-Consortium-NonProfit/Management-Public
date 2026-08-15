@@ -8,7 +8,9 @@ We "harness proven accelerators" by using the AccelRR8 Framework (one of the [Ac
 
 # Using Collaboration Platforms to Maximize Network Effects
 
-One of the proven accelerators we seek to maximize in our Consortium is Network Effects.  We do this by helping our [Consortium Network Participants](../../1_Integration/1a_Governance/1a_Consortium_Structure.md) connect with one another.   
+One of our [Consortium’s strategic priorities](../../1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy) is “to connect our network and be credible, we should use the right Collaboration Platforms”.
+
+Collaboration Platforms are a Consortium priority because we seek to maximize Network Effects - one of the proven accelerators in the AccelRR8 Framework.  We do this by helping our [Consortium Network Participants](../../1_Integration/1a_Governance/1a_Consortium_Structure.md) connect with one another.   
 
 As we scale our Consortium Network we face challenges connecting people across organizational and technology silos.
 

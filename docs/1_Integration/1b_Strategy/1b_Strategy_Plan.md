@@ -1,7 +1,7 @@
 
-# Plan for Executing Consortium Priorities
+# Strategic Priorities
 
-Our focus is on executing our Consortium Priorities shown below
+Our leadership focus is on executing our Strategic Priorities shown below
 
 ![](./img/Consortium_Priorities.jpeg)
 
