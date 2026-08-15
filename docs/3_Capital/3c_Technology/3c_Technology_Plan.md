@@ -5,7 +5,7 @@ Technology is leading our Consortium Strategic Priority:  “to connect our netw
 
 ![](../../1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg)
 
-Our Horizon 1 Demand Generation Plan includes a set of initiatives aligned with this priority as shown in our Product Roadmap below.
+Our Horizon 1 Technology Plan includes a set of initiatives aligned with this priority as shown in our Product Roadmap below.
 
 ![](../../2_Value_Creation/2a_Product/img/Roadmap_To_Launch_Baseline.jpg)
 
