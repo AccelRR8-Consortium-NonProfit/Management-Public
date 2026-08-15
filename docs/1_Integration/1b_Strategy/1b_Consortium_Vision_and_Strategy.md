@@ -6,7 +6,7 @@ Our founders formulated our Consortium Intent, which underpins our Ambition and 
 
 ![](./img/Consortium_Intent.jpeg)
 
-![](./img/Consortium_Ambition.jpeg)
+![](../1a_Governance/img/Consortium_Ambition.jpeg)
 
 Fully realizing our ambition will require perseverance and tenacity over decades.
 
@@ -35,6 +35,6 @@ We must learn from other successful non-profit organizations who offer similar s
 
 In the 2020s, we need to orient ourselves and learn about the services we need, while "drinking our own champagne".
 
-![](./img/3Horizon_Impact_Strategy.jpeg)
+![](../1a_Governance/img/3Horizon_Impact_Strategy.jpeg)
 
 ![](./img/Consortium_Priorities.jpeg)

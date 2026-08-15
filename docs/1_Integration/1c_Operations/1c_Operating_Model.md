@@ -3,8 +3,6 @@
 
 ![](./img/Consortium_Orientation.jpeg)
 
-![](./img/Consortium_Services.jpeg)
-
 ![](./img/Consortium_Model_1.jpeg)
 
 ![](./img/Consortium_Model_2.jpeg)

@@ -1,7 +1,7 @@
 
 # Purpose
 
-![](./img/Consortium_Ambition.jpeg)
+![](../1a_Governance/img/Consortium_Ambition.jpeg)
 
 
 # Credo
