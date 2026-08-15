@@ -1,23 +1,32 @@
 
-# Using the AccelRR8 Framework
+# Technology Plan
+
+Technology is leading our Consortium Strategic Priority:  “to connect our network and be credible, we should use the right Collaboration Platforms”.
+
+![](../../1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg)
+
+Our Horizon 1 Demand Generation Plan includes a set of initiatives aligned with this priority as shown in our Product Roadmap below.
+
+![](../../2_Value_Creation/2a_Product/img/Roadmap_To_Launch_Baseline.jpg)
+
+
+## Using the AccelRR8 Framework
 
 One of our [Consortium Values](../../1_Integration/1d_Responsibility/1d_Consortium_Purpose_and_Credo.md) is "Accelerating Success", which is about "harnessing proven accelerators to continuously innovate, collaborate, ideate, learn, use AI, and grow value exponentially (we drink our own champagne)".  
 
 We "harness proven accelerators" by using the AccelRR8 Framework (one of the [AccelRR8 Body of Knowledge components](https://accelrr8.org/abok-components/)) throughout our [AccelRR8 Management System](../../index.md).  We will elaborate on how we do this in a future case study that will be included in the [AccelRR8 Body of Knowledge (ABOK)](https://accelrr8.org/a-bok/).
 
 
-# Using Collaboration Platforms to Maximize Network Effects
+## Using Collaboration Platforms to Maximize Network Effects
 
-One of our [Consortium’s strategic priorities](../../1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy) is “to connect our network and be credible, we should use the right Collaboration Platforms”.
-
-Collaboration Platforms are a Consortium priority because we seek to maximize Network Effects - one of the proven accelerators in the AccelRR8 Framework.  We do this by helping our [Consortium Network Participants](../../1_Integration/1a_Governance/1a_Consortium_Structure.md) connect with one another.   
+Collaboration Platforms are a strategic priority because we seek to maximize Network Effects - one of the proven accelerators in the AccelRR8 Framework.  We do this by helping our [Consortium Network Participants](../../1_Integration/1a_Governance/1a_Consortium_Structure.md) connect with one another.   
 
 As we scale our Consortium Network we face challenges connecting people across organizational and technology silos.
 
 According to the AccelRR8 Framework, implementing the right Collaboration Platforms is the solution to overcoming these challenges.
 
 
-## Wordpress.com
+### Wordpress.com
 
 We soft-launched our new AccelRR8 Consortium NonProfit website, [https://accelrr8.org](https://accelrr8.org), now hosted live on Wordpress.com (owned by Automattic).
 
@@ -27,7 +36,7 @@ We soft-launched our new AccelRR8 Consortium NonProfit website, [https://accelrr
 - It integrates well with our other platforms including Github and Discord.
 
 
-## Github
+### Github
 
 With Dominick Reba’s help, we launched a new AccelRR8 Consortium Github organization, [https://github.com/AccelRR8-Consortium-NonProfit](https://github.com/AccelRR8-Consortium-NonProfit) with:
 - a [private repository for the Board](https://github.com/AccelRR8-Consortium-NonProfit/Board-Of-Directors-Private), which is now our official Board portal / library,
@@ -41,7 +50,7 @@ With Dominick Reba’s help, we launched a new AccelRR8 Consortium Github organi
 - We published the AccelRR8 Framework in a repository owned by AccelRR8 LLC, and the umbrella AccelRR8 BOK in a repository owned by AccelRR8 Consortium NonProfit. 
 - We chose to license all this content using the MIT License, which is the most widely used license for open source software, one of the simplest widely used licenses available, and allows organizations wide latitude to monetize products and services that use the ABOK so long as due credit is given to the Consortium.
 
-## Discord
+### Discord
 
 With Christopher Reba’s help, we launched a new [AccelRR8 Consortium NonProfit Discord server](https://discord.com/channels/1403454964067602452/1403458957871157278) with:
 - private channels for Board discussions, and
@@ -54,7 +63,7 @@ With Christopher Reba’s help, we launched a new [AccelRR8 Consortium NonProfit
 - Our plan is to use it instead of MS Teams for future Board meetings and asynchronous collaboration
 
 
-## LinkedIn
+### LinkedIn
 
 We think **LinkedIn Groups** will be a good way to get people connected to each other publicly,
 - It can be a good way for people to get their personal brand out there

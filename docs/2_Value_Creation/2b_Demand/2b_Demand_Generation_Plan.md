@@ -3,12 +3,14 @@
 
 Demand Generation is leading our Consortium Strategic Priority:  “to go viral, we must win advocacy from credible industry influencers”.
 
+![](../../1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg)
+
 Our Horizon 1 Demand Generation Plan includes a set of initiatives aligned with this priority as shown in our Product Roadmap below.
 
 ![](../2a_Product/img/Roadmap_To_Launch_Baseline.jpg)
 
 
-# Editorial Calendar
+## Editorial Calendar
 
 We will publish and syndicate a stream of articles, which Subscribers, Patrons, and Industry Influencers will expect when evaluating the Consortium's credibility.  These articles support several initiatives in our Product Roadmap above, for example:
 

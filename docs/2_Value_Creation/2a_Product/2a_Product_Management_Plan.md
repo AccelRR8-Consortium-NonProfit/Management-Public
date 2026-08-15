@@ -1,8 +1,10 @@
 # Product Management Plan
 
-## Using Lean Product Management
+Product Management is leading our Consortium Strategic Priority:  “to improve our services and be credible, we should use Lean Product Management”.
 
-One of our [Consortium’s strategic priorities](../../1_Integration/1b_Strategy/1b_Consortium_Vision_and_Strategy) is “to improve our services and be credible, we should use Lean Product Management”.
+![](../../1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg)
+
+## Using Lean Product Management
 
 From the beginning, we have been using Lean Product Management (LPM) to develop Consortium Services and ignite compounding innovation.
 
@@ -14,7 +16,7 @@ The scope of our services, shown in the graphic below, was defined in the Epic H
 
 ![](./img/Consortium_Services.jpeg)
 
-Additional deliverables were / will be developed for each service version as it moves through its lifecycle.   
+Additional deliverables were and will continue to be developed for each service version as it moves through its lifecycle.   
 
 ## Product Plan
 
