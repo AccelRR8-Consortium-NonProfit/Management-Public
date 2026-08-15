@@ -14,6 +14,7 @@ index
   ?c 1b_Strategy/
     1b_Strategy_Overview
     1b_Consortium_Vision_and_Strategy
+    1b_Strategy_Plan
   ?c 1c_Operations/
     1c_Operations_Overview
     1c_Operating_Model
