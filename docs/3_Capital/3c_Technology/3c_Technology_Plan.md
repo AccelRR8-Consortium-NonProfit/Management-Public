@@ -1,20 +1,24 @@
 
 # Technology Plan
 
-Technology is leading our Consortium Strategic Priority:  “to connect our network and be credible, we should use the right Collaboration Platforms”.
+Technology is leading our Consortium Strategic Priorities:  
+- “to connect our network and be credible, we should use the right Collaboration Platforms”
+- "to help us scale and be credible, we must experiment with and practice using AI"
 
 ![](../../1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg)
 
-Our Horizon 1 Technology Plan includes a set of initiatives aligned with this priority as shown in our Product Roadmap below.
+Our Horizon 1 Technology Plan includes a set of initiatives aligned with these priorities as shown in our Product Roadmap below.
 
 ![](../../2_Value_Creation/2a_Product/img/Roadmap_To_Launch_Baseline.jpg)
 
 
-## Using the AccelRR8 Framework
+## Using AI and the AccelRR8 Framework
 
 One of our [Consortium Values](../../1_Integration/1d_Responsibility/1d_Consortium_Purpose_and_Credo.md) is "Accelerating Success", which is about "harnessing proven accelerators to continuously innovate, collaborate, ideate, learn, use AI, and grow value exponentially (we drink our own champagne)".  
 
-We "harness proven accelerators" by using the AccelRR8 Framework (one of the [AccelRR8 Body of Knowledge components](https://accelrr8.org/abok-components/)) throughout our [AccelRR8 Management System](../../index.md).  We will elaborate on how we do this in a future case study that will be included in the [AccelRR8 Body of Knowledge (ABOK)](https://accelrr8.org/a-bok/).
+We "harness proven accelerators" by using the AccelRR8 Framework (one of the [AccelRR8 Body of Knowledge components](https://accelrr8.org/abok-components/)) throughout our [AccelRR8 Management System](../../index.md).  
+
+We will elaborate on how we do this in a future case study that will be included in the [AccelRR8 Body of Knowledge (ABOK)](https://accelrr8.org/a-bok/).  This will include how we are experimenting with and practicing the use of Artificial Intelligence, which is one of the proven accelerators in the Framework.
 
 
 ## Using Collaboration Platforms to Maximize Network Effects
