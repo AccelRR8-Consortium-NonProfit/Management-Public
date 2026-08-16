@@ -1,7 +1,11 @@
 
 # Demand Generation Plan
 
-Demand Generation is leading our Consortium Strategic Priority:  “to go viral, we must win advocacy from credible industry influencers”.
+The Demand Generation function is addressing the Building Momentum section of our Consortium Organization Plan.
+
+![](../../1_Integration/1a_Governance/img/Building_Momentum.jpeg)
+
+We are also leading our Consortium Strategic Priority:  “to go viral, we must win advocacy from credible industry influencers”.
 
 ![](../../1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg)
 

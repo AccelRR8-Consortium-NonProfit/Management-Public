@@ -1,6 +1,10 @@
 # Product Management Plan
 
-Product Management is leading our Consortium Strategic Priority:  “to improve our services and be credible, we should use Lean Product Management”.
+The Product Management function is addressing the Services and Benefits section of our Consortium Organization Plan.
+
+![](../../1_Integration/1a_Governance/img/Services_and_Benefits.jpeg)
+
+We are also leading our Consortium Strategic Priority:  “to improve our services and be credible, we should use Lean Product Management”.
 
 ![](../../1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg)
 
