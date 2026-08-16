@@ -42,6 +42,7 @@ index
   ?c 2b_Demand/
     2b_Demand_Generation_Overview
     2b_Demand_Generation_Plan
+    2b_Demand_Generation_Dashboard
     2b_Demand_Generation_Repository
   ?c 2c_Beneficiaries/
     2c_Beneficiaries_Engagement_Overview
