@@ -3,4 +3,4 @@
 - [Consortium Structure](./1a_Consortium_Structure)
 - Governance Plan
 - Governance Dashboard
-- Governance Repository
+- [Governance Repository](./1a_Governance_Repository)
