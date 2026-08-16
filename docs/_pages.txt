@@ -49,8 +49,10 @@ index
   3_Capital_Overview
   ?c 3a_People/
     3a_People_Overview
+    3a_People_Plan
   ?c 3b_Finance/
     3b_Finance_Overview
+    3b_Finance_Plan
     3b_Finance_Repository
   ?c 3c_Technology/
     3c_Technology_Overview
