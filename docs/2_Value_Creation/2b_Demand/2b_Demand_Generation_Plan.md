@@ -19,7 +19,8 @@ Our Horizon 1 Demand Generation Plan includes a set of initiatives aligned with 
 We will publish and syndicate a stream of articles, which Subscribers, Patrons, and Industry Influencers will expect when evaluating the Consortium's credibility.  These articles support several initiatives in our Product Roadmap above, for example:
 
 - Board members will be able to reference these articles when growing the number of Subscribers to 100
-- Our Demand Generation campaigns to grow Subscriber numbers to 300 and then 1,000 will need to demonstrate we are publishing articles regularly
+- Our Demand Generation campaigns to grow Subscriber numbers to 300 and then 1,000 will need to demonstrate we are publishing articles such as these regularly
+- Value propositions for Subscribers and Patrons will draw upon these articles
 - These articles will enhance our credibility with Tech Services leaders and influencers
 - Our website should include these articles as we prepare it for launch
 
