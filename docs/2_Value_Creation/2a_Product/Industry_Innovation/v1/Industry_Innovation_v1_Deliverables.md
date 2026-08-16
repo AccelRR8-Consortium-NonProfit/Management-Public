@@ -3,7 +3,7 @@
 
 ---
 
-## Reviewing Stage
+## Concept Development - Reviewing Stage
 
 ### Epic Hypothesis
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Analysis Stage
+## Concept Development - Analysis Stage
 
 ### Service Alternatives
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Implementing - MVP Stage
+## MVP Release
 
 - Service Strategy
 - Service Context

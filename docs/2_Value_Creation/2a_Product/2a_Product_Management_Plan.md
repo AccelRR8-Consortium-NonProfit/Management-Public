@@ -6,17 +6,15 @@ Product Management is leading our Consortium Strategic Priority:  “to improve 
 
 ## Using Lean Product Management
 
-From the beginning, we have been using Lean Product Management (LPM) to develop Consortium Services and ignite compounding innovation.
+From the beginning, we have been using [Lean Product Management (LPM)](https://accelrr8.github.io/AccelRR8-Framework/?page=Compounding_Innovation/Lean_Product_Management/Implementing_Lean_Product_Management_at_Scale), as defined in the AccelRR8 Framework, to develop Consortium Services and ignite compounding innovation.
 
-- First we developed the [Epic Hypothesis Statement](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Epic-Hypothesis-Statement.pdf) and the [Lean Business Case](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Lean_Business_Case.pdf) for the Services Portfolio overall.
+- First we developed the concept for the Services Portfolio overall as described in the [Epic Hypothesis Statement](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Epic-Hypothesis-Statement.pdf) and [Lean Business Case](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Lean_Business_Case.pdf).
 
-- Next we developed a plan for version 1 of each service.  
-
-The scope of our services, shown in the graphic below, was defined in the Epic Hypothesis Statement and Lean Business Case for v1 of each service. You can view these and other service deliverables in the [Product Management Repository](./2a_Product_Management_Repository) under the Deliverables header.
+- Next we developed the concept for version 1 of each service, which include the scope definitions summarized below.
 
 ![](./img/Consortium_Services.jpeg)
 
-Additional deliverables were and will continue to be developed for each service version as it moves through its lifecycle.   
+- We are currently developing the v1 Minimum Viable Product (MVP) release for each service.   
 
 ## Product Plan
 
