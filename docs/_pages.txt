@@ -11,6 +11,7 @@ index
   ?c 1a_Governance/
     1a_Governance_Overview
     1a_Consortium_Structure
+    1a_Governance_Repository
   ?c 1b_Strategy/
     1b_Strategy_Overview
     1b_Consortium_Vision_and_Strategy
@@ -41,6 +42,7 @@ index
   ?c 2b_Demand/
     2b_Demand_Generation_Overview
     2b_Demand_Generation_Plan
+    3b_Demand_Generation_Repository
   ?c 2c_Beneficiaries/
     2c_Beneficiaries_Engagement_Overview
   ?c 2d_Delivery/
@@ -59,3 +61,4 @@ index
     3c_Technology_Plan
   ?c 3d_Property/
     3d_Property_Overview
+    3d_Property_Repository
