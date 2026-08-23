@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1_Integration/1b_Strategy/1b_Strategy_Dashboard.md",
+                "file": "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1b_Strategy_Dashboard"
+              "title": "1b_Strategy_Overview"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
-    "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Dashboard.md",
     "docs/1_Integration/1b_Strategy/1b_Strategy_Dashboard.md",
+    "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Dashboard.md",
     "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
     "docs/1_Integration/1b_Strategy/1b_Strategy_Plan.md",
     "docs/3_Capital/3d_Property/3d_Property_Repository.md",
