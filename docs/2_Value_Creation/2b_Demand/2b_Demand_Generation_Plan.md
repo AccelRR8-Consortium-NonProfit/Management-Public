@@ -35,6 +35,8 @@ We intend to publish an initial series of articles under a common theme:<br>
 
 - **Making a Difference**<br>How we can scale our experience, knowledge, and influence to help humanity 
 
+Also, John and Rich are co-authoring an article, potentially to be published by the Forbes Technology Council, called "Growing the Value of Your Data:  Exponentially!" 
+
 
 
 
