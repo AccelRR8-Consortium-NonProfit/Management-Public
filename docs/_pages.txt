@@ -24,6 +24,7 @@ index
   ?c 1d_Responsibility/
     1d_Responsibility_Overview
     1d_Consortium_Purpose_and_Credo
+    1d_Responsibility_Plan
     1d_Responsibility_Repository
 2_Value_Creation/
   2_Value_Creation_Overview
