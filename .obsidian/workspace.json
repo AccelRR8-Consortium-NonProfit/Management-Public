@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Plan.md",
+                "file": "docs/1_Integration/1a_Governance/1a_Governance_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2b_Demand_Generation_Plan"
+              "title": "1a_Governance_Overview"
             }
           }
         ]
@@ -199,6 +199,9 @@
   },
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
+    "docs/1_Integration/1a_Governance/1a_Governance_Plan.md",
+    "docs/1_Integration/1a_Governance/1a_Consortium_Structure.md",
+    "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Plan.md",
     "docs/1_Integration/1b_Strategy/1b_Strategy_Dashboard.md",
     "docs/1_Integration/1b_Strategy/1b_Strategy_Overview.md",
     "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Dashboard.md",
@@ -219,7 +222,6 @@
     "docs/3_Capital/3d_Property/Vendors/Microsoft",
     "docs/3_Capital/3d_Property/Vendors/LegalZoom/LegalZoom Subscriptions.png",
     "docs/3_Capital/3d_Property/LegalZoom/LegalZoom Subscriptions.png",
-    "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Plan.md",
     "docs/3_Capital/3d_Property/Wordpress/Wordpress Purchases.png",
     "docs/2_Value_Creation/2b_Demand/2b_Demand_Generation_Overview.md",
     "docs/3_Capital/3d_Property/3d_Property_Overview.md",
@@ -240,9 +242,7 @@
     "docs/2_Value_Creation/2a_Product/Industry_Innovation/v1/Industry_Innovation_v1_Deliverables.md",
     "docs/2_Value_Creation/2a_Product/Open_Knowledge_Sharing/v1/img/Analysis_Service_Alternatives.jpeg",
     "docs/2_Value_Creation/2a_Product/2a_Product_Management_Dashboard.md",
-    "docs/1_Integration/1c_Operations/1c_Operating_Model.md",
     "docs/1_Integration/1c_Operations/img/Consortium_Services.jpeg",
-    "docs/1_Integration/1c_Operations/1c_Operations_Overview.md",
     "docs/1_Integration/1d_Responsibility/img/Consortium_Ambition.jpeg",
     "docs/1_Integration/1b_Strategy/img/Consortium_Ambition.jpeg"
   ]
