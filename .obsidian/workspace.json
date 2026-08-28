@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1_Integration/1d_Responsibility/3b_Responsibility_Plan.md",
+                "file": "docs/1_Integration/1d_Responsibility/1d_Responsibility_Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3b_Responsibility_Plan"
+              "title": "1d_Responsibility_Plan"
             }
           }
         ]
@@ -200,7 +200,7 @@
   "active": "9eb1a04c4f9d8b60",
   "lastOpenFiles": [
     "docs/3_Capital/3b_Finance/3b_Finance_Plan.md",
-    "docs/1_Integration/1d_Responsibility/3b_Responsibility_Plan.md",
+    "docs/1_Integration/1d_Responsibility/1d_Responsibility_Plan.md",
     "docs/1_Integration/1a_Governance/1a_Governance_Overview.md",
     "docs/1_Integration/1a_Governance/1a_Governance_Plan.md",
     "docs/1_Integration/1a_Governance/1a_Consortium_Structure.md",
