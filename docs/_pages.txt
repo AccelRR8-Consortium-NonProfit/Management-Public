@@ -65,4 +65,5 @@ index
     3c_Technology_Plan
   ?c 3d_Property/
     3d_Property_Overview
+    3d_Property_Plan
     3d_Property_Repository
