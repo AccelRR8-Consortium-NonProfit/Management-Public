@@ -12,13 +12,13 @@ Our Horizon 1 Technology Plan includes a set of initiatives aligned with these p
 ![](../../2_Value_Creation/2a_Product/img/Roadmap_To_Launch_Baseline.jpg)
 
 
-## Using AI and the AccelRR8 Framework
+## Using the AccelRR8 Framework
 
 One of our [Consortium Values](../../1_Integration/1d_Responsibility/1d_Consortium_Purpose_and_Credo.md) is "Accelerating Success", which is about "harnessing proven accelerators to continuously innovate, collaborate, ideate, learn, use AI, and grow value exponentially (we drink our own champagne)".  
 
 We "harness proven accelerators" by using the AccelRR8 Framework (one of the [AccelRR8 Body of Knowledge components](https://accelrr8.org/abok-components/)) throughout our [AccelRR8 Management System](../../index.md).  
 
-We will elaborate on how we do this in a future case study that will be included in the [AccelRR8 Body of Knowledge (ABOK)](https://accelrr8.org/a-bok/).  This will include how we are experimenting with and practicing the use of Artificial Intelligence, which is one of the proven accelerators in the Framework.
+We will elaborate on how we do this in a future case study that will be included in the [AccelRR8 Body of Knowledge (ABOK)](https://accelrr8.org/a-bok/) Success Stories.  This will include how we are experimenting with and practicing the use of Artificial Intelligence, which is one of the proven accelerators in the Framework.
 
 
 ## Using Collaboration Platforms to Maximize Network Effects
@@ -28,6 +28,14 @@ Collaboration Platforms are a strategic priority because we seek to maximize Net
 As we scale our Consortium Network we face challenges connecting people across organizational and technology silos.
 
 According to the AccelRR8 Framework, implementing the right Collaboration Platforms is the solution to overcoming these challenges.
+
+We've already explored platforms to enhance collaboration, and to publish and curate the AccelRR8 Body of Knowledge (ABOK).  Our findings are included in the sections on each platform below.
+
+We are now running the MVP for these collaboration platforms, and have published the ABOK, which we will continuously refine and improve with help from the Advisory Board as it forms and begins to operate.
+
+We will develop the services platform hypothesis and lean business case as part of the concept for the services platform.  
+
+Identification and recruitment of the services platform leader is being supported by the People function.
 
 
 ### Wordpress.com

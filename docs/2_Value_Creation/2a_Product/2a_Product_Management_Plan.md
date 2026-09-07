@@ -8,13 +8,13 @@ We are also leading our Consortium Strategic Priority:  “to improve our servic
 
 ![](../../1_Integration/1b_Strategy/img/Consortium_Priorities.jpeg)
 
-## Using Lean Product Management
+## Using Lean Product Management to Maximize Compounding Innovation
 
-From the beginning, we have been using [Lean Product Management (LPM)](https://accelrr8.github.io/AccelRR8-Framework/?page=Compounding_Innovation/Lean_Product_Management/Implementing_Lean_Product_Management_at_Scale), as defined in the AccelRR8 Framework, to develop Consortium Services and ignite compounding innovation.
+From the beginning, we have been using [Lean Product Management (LPM)](https://accelrr8.github.io/AccelRR8-Framework/?page=Compounding_Innovation/Lean_Product_Management/Implementing_Lean_Product_Management_at_Scale), as defined in the AccelRR8 Framework, to develop Consortium Services and ignite Compounding Innovation.
 
 - First we developed the concept for the Services Portfolio overall as described in the [Epic Hypothesis Statement](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Epic-Hypothesis-Statement.pdf) and [Lean Business Case](https://github.com/AccelRR8-Consortium-NonProfit/Management-Public/blob/main/docs/2_Value_Creation/2a_Product/AccelRR8_Consortium_NonProfit_Services_Portfolio_Lean_Business_Case.pdf).
 
-- Next we developed the concept for version 1 of each service, which include the scope definitions summarized below.
+- Next we developed the concept for version 1 of each service, which include the scope definitions summarized below.  Specifically, these scope definitions are included in the service hypothesis and lean business case developed for each service, respectively.
 
 ![](./img/Consortium_Services.jpeg)
 
@@ -34,9 +34,19 @@ These actions are organized into our 3 services:  Professional Networking, Open
 
 # Product Roadmap
 
+## Roadmap to Launch
+
 The below graphic shows specific actions we are taking for our Services during the Launch Phase of our Product Plan.  These actions are aligned to our Consortium Priorities. 
 
 ![](./img/Roadmap_To_Launch_Baseline.jpg)
+
+For Roadmap to Launch actions aligned to the Lean Product Management priority:
+
+- the service hypothesis and lean business case has been developed as part of the concept for each service.
+
+- identification and recruitment of the service leader for each service is being supported by the People function.
+
+## Roadmap to Climb / Scale
 
 The below graphic shows potential features and pricing models for our Services when we enter the Climb / Scale Stage of our Product Plan.
 
