@@ -16,9 +16,11 @@ Our Horizon 1 Demand Generation Plan includes a set of initiatives aligned with 
 
 # Winning advocacy from credible industry influencers
 
-Before advocating for the AccelRR8 Consortium NonProfit, credible industry influencers will expect our Consortium to be well-established and have momentum.  
+Advocacy for our Consortium from credible industry influencers is a strategic priority because we seek to maximize Viral Ideation - one of the proven accelerators in the AccelRR8 Framework. 
 
-Before engaging with industry influencers to win their advocacy:
+When influencers are advocating for our Consortium, it will help "break the ice" and encourage our subscribers to overcome any fear or insecurity they may have about sharing their ideas with others in our Consortium network.
+
+Industry influencers will likely expect our Consortium to be well-established and have momentum as a prerequisite for their advocacy.  As such, before we engage with industry influencers to win their advocacy:
 
 - Our **Professional Networking service** should have at least 300 subscribers with a credible path to 1,000 subscribers.
 

@@ -18,7 +18,7 @@ One of our [Consortium Values](../../1_Integration/1d_Responsibility/1d_Consorti
 
 We "harness proven accelerators" by using the AccelRR8 Framework (one of the [AccelRR8 Body of Knowledge components](https://accelrr8.org/abok-components/)) throughout our [AccelRR8 Management System](../../index.md).  
 
-We will elaborate on how we do this in a future case study that will be included in the [AccelRR8 Body of Knowledge (ABOK)](https://accelrr8.org/a-bok/) Success Stories.  This will include how we are experimenting with and practicing the use of Artificial Intelligence, which is one of the proven accelerators in the Framework.
+We will elaborate on how we do this in a future case study that will be included in the [AccelRR8 Body of Knowledge (ABOK)](https://accelrr8.org/a-bok/) Success Stories.  This will include how we are experimenting with and practicing the use of Artificial Intelligence in order to maximize its impact as one of the proven accelerators in the Framework.
 
 
 ## Using Collaboration Platforms to Maximize Network Effects
