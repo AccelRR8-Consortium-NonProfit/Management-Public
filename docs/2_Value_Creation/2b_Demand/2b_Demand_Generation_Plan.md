@@ -30,7 +30,7 @@ Industry influencers will likely expect our Consortium to be well-established an
 
 - Our **Services Platform** should convey that the Consortium is well-established and has momentum.  For example, our website should showcase a stream of articles featuring original content syndicated through various media channels.
 
-## Establishing and building momentum in our Professional Networking Service
+## Establishing and building momentum with Professional Networking
 
 - We will develop the Value Proposition for Subscribers.  The article "Accelerating Success in the Age of AI:  Growing Value Exponentially" will articulate this value proposition.
 
@@ -40,7 +40,7 @@ Industry influencers will likely expect our Consortium to be well-established an
 
 - As we approach 300 subscribers, we will prepare a campaign that involves winning advocacy from credible industry influencers to engage the professional networks of our first 300 subscribers and expand to 1,000 subscribers.
 
-## Establishing and building momentum in our Open Knowledge Sharing Service
+## Establishing and building momentum with Open Knowledge Sharing
 
 - We will develop the Value Proposition for Consortium Leaders.  The article "Accelerating Success in the Age of AI:  Unlocking our Collective Potential" will articulate this value proposition.
 
@@ -50,7 +50,7 @@ Industry influencers will likely expect our Consortium to be well-established an
 
 - We will run MVPs for podcasts and/or webinars with industry influencers.
 
-## Establishing and building momentum in our Industry Innovation Service
+## Establishing and building momentum with Industry Innovation
 
 - We will develop the Value Proposition for Patrons.  The article "Accelerating Success in the Age of AI:  Humanity's Promising Future" will articulate this value proposition.
 
