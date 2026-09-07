@@ -20,6 +20,8 @@ Advocacy for our Consortium from credible industry influencers is a strategic pr
 
 When influencers are advocating for our Consortium, it will help "break the ice" and encourage our subscribers to overcome any fear or insecurity they may have about sharing their ideas with others in our Consortium network.
 
+Influencers will also attract more enterprising leaders to join and engage with our Consortium as subscribers, patrons, and Consortium leaders. 
+
 Industry influencers will likely expect our Consortium to be well-established and have momentum as a prerequisite for their advocacy.  As such, before we engage with industry influencers to win their advocacy:
 
 - Our **Professional Networking service** should have at least 300 subscribers with a credible path to 1,000 subscribers.
