@@ -62,11 +62,11 @@ Industry influencers will likely expect our Consortium to be well-established an
 
 - We will ensure our website conveys that our Consortium is well-established and has momentum.
 
-- Our website showcase a stream of articles featuring original content syndicated through various media channels.
+- Our website will showcase a stream of articles featuring original content syndicated through various media channels.
 
-- ABOK content currently hosted on Github (the AccelRR8 Framework and the AccelRR8 Management System) will be styled after the accelrr8.org website (the Technology team is working on this).
+- ABOK content currently hosted on Github (the AccelRR8 Framework and the AccelRR8 Management System) will be styled after the accelrr8.org website.  This work is being supported by the Technology function.
 
-- The AccelRR8 Consortium Discord server will be opened so that any Discord user can discover, join, and use the server (the Technology team is working on this).
+- The AccelRR8 Consortium Discord server will be opened so that any Discord user can discover, join, and use the server.  This work is being supported by the Technology function.
 
 
 ## Implementing an Editorial Calendar
