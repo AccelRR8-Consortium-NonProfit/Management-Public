@@ -32,9 +32,9 @@ Specific actions we will take, and leading indicators we will measure, are shown
 
 These actions are organized into our 3 services:  Professional Networking, Open Knowledge Sharing, and Industry Innovation
 
-# Product Roadmap
+## Product Roadmap
 
-## Roadmap to Launch
+### Roadmap to Launch
 
 The below graphic shows specific actions we are taking for our Services during the Launch Phase of our Product Plan.  These actions are aligned to our Consortium Priorities. 
 
@@ -46,7 +46,7 @@ For Roadmap to Launch actions aligned to the Lean Product Management priority:
 
 - identification and recruitment of the service leader for each service is being supported by the People function.
 
-## Roadmap to Climb / Scale
+### Roadmap to Climb / Scale
 
 The below graphic shows potential features and pricing models for our Services when we enter the Climb / Scale Stage of our Product Plan.
 
