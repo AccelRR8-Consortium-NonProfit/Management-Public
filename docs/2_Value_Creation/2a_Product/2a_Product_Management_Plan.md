@@ -44,7 +44,10 @@ For Roadmap to Launch actions aligned to the Lean Product Management priority:
 
 - the service hypothesis and lean business case has been developed as part of the concept for each service.
 
+- the service platform concept, including hypothesis and lean business case, and also the service platform leader identification is being supported by the Technology function.
+
 - identification and recruitment of the service leader for each service is being supported by the People function.
+
 
 ### Roadmap to Climb / Scale
 
