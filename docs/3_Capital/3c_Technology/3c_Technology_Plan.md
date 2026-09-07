@@ -25,9 +25,7 @@ We will elaborate on how we do this in a future case study that will be included
 
 Collaboration Platforms are a strategic priority because we seek to maximize Network Effects - one of the proven accelerators in the AccelRR8 Framework.  We do this by helping our [Consortium Network Participants](../../1_Integration/1a_Governance/1a_Consortium_Structure.md) connect with one another.   
 
-As we scale our Consortium Network we face challenges connecting people across organizational and technology silos.
-
-According to the AccelRR8 Framework, implementing the right Collaboration Platforms is the solution to overcoming these challenges.
+As we scale our Consortium Network we face challenges connecting people across organizational and technology silos.  According to the AccelRR8 Framework, implementing the right Collaboration Platforms is the solution to overcoming these challenges.
 
 We've already explored platforms to enhance collaboration, and to publish and curate the AccelRR8 Body of Knowledge (ABOK).  Our findings are included in the sections on each platform below.
 
